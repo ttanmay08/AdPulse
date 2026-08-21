@@ -10,3 +10,9 @@ credentials.json
 .DS_Store
 *.pyc
 .venv/
+
+lambda/build/
+terraform/tfplan*
+terraform/tfdestroy
+terraform/.terraform.tfstate.lock.info
+.claude/

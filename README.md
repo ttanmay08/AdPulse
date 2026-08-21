@@ -9,7 +9,7 @@ campaign-level data).
 ## Status
 
 - [x] Phase 1 — data, schema, core SQL (local Postgres)
-- [ ] Phase 2 — cloud plumbing (Terraform: S3, Lambda, RDS, API Gateway)
+- [x] Phase 2 — cloud plumbing (Terraform: S3, Lambda, RDS, API Gateway)
 - [ ] Phase 3 — dashboard (S3 + CloudFront)
 
 ## Data notes
@@ -91,3 +91,80 @@ psql -d adpulse -f sql/01_roas_cpa_by_channel.sql
 - Strict cut (top-half spend / bottom-quartile ROAS, `06` — the dashboard KPI):
   **57 segments flagged, $2.91M**. Nearly all of it ($2.6M+) is Google Ads,
   reinforcing that Google is where reallocation should start.
+
+## Phase 2 — AWS infrastructure
+
+Terraform (`terraform/`) provisions:
+
+- **VPC** with two private subnets, no NAT gateway and no internet gateway.
+  Nothing in this stack needs outbound internet: the load Lambda reaches S3
+  through a free **gateway endpoint**, and both Lambdas fetch the RDS master
+  password from Secrets Manager through an **interface endpoint** — the
+  cheapest topology that still keeps RDS fully private.
+- **S3** raw landing bucket (`raw/` prefix, versioned, public access blocked),
+  with an event notification that invokes the load Lambda on every `.csv`
+  upload.
+- **RDS Postgres 16.15** (`db.t4g.micro`, single-AZ, `publicly_accessible =
+  false`), master password managed natively by RDS in Secrets Manager
+  (`manage_master_user_password = true` — no password ever passed through
+  Terraform state or a plaintext Lambda env var).
+- **Load Lambda** (`lambda/load/handler.py`, Python 3.12, VPC-attached):
+  triggered by the S3 upload, re-implements `scripts/load_data.py`'s cleaning
+  rules (null/negative-row drop, derived-metric cross-check) without pandas —
+  its C-extension wheels aren't worth cross-compiling for Lambda's runtime at
+  this data volume, so this uses the stdlib `csv` module. Creates the table
+  on first run (`CREATE TABLE IF NOT EXISTS`, same DDL as `sql/schema.sql`)
+  so schema setup doesn't require out-of-band `psql` access to a private RDS
+  instance.
+- **Query Lambda + API Gateway (HTTP API)** (`lambda/query/handler.py`):
+  exposes the 5 Phase 1 SQL queries as `GET` JSON routes, each parameterized
+  by `start_date`, `end_date`, `channel` (all optional):
+
+  | Route | Source query |
+  |---|---|
+  | `/roas-by-channel` | `sql/01_roas_cpa_by_channel.sql` |
+  | `/roas-by-campaign` | `sql/02_roas_cpa_by_campaign.sql` |
+  | `/underperformers` | `sql/03_underperformers_top_spend_low_roas.sql` |
+  | `/rolling-roas` | `sql/04_rolling_7day_roas_by_channel.sql` |
+  | `/wow-efficiency` | `sql/05_week_over_week_efficiency_change.sql` |
+
+  e.g. `GET /roas-by-campaign?channel=Google%20Ads&start_date=2024-01-01&end_date=2024-03-31`
+- **IAM**: two least-privilege Lambda roles — the load role gets `s3:GetObject`
+  scoped to `raw/*` plus `secretsmanager:GetSecretValue` on the RDS secret;
+  the query role gets only the Secrets Manager read.
+
+### Deploying
+
+```bash
+cd lambda && ./build.sh                        # builds Lambda zips (manylinux psycopg2 wheel)
+cd ../terraform
+terraform init
+terraform plan -out=tfplan
+terraform apply tfplan
+
+aws s3 cp ../data/raw/global_ads_performance_dataset.csv \
+  s3://$(terraform output -raw raw_bucket_name)/raw/global_ads_performance_dataset.csv
+# ^ upload triggers the load Lambda automatically
+
+curl "$(terraform output -raw api_endpoint)roas-by-channel"
+```
+
+Tear down with `terraform destroy` when you're done — RDS is the only real
+ongoing cost (~$12-15/mo on `db.t4g.micro` outside the Free Tier); everything
+else here is pennies.
+
+### Verified deployed (2026-08-21)
+
+- `terraform apply`: 40 resources created in `ap-south-1`, zero errors on the
+  final apply.
+- Uploaded the CSV to S3 → load Lambda cleaned and loaded all 1,800 rows into
+  RDS (confirmed via CloudWatch logs and a direct synchronous invoke).
+- All 5 API routes hit and returned correct JSON, including
+  `channel`/`start_date`/`end_date` filtering (e.g. `/roas-by-campaign` with
+  `channel=Google Ads` returned 139 of 407 segments; `/underperformers` scoped
+  to Q1 2024 returned 83 flagged segments vs. 119 for the full year).
+- One real bug caught and fixed during deployment: the Lambdas' Secrets
+  Manager calls were hanging for the full timeout because the VPC had no
+  route to Secrets Manager's public endpoint (no NAT, no interface endpoint)
+  — fixed by adding a Secrets Manager VPC interface endpoint
+  (`aws_vpc_endpoint.secretsmanager` in `terraform/vpc.tf`).
