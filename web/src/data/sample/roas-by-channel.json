@@ -1,0 +1,35 @@
+{
+  "route": "/roas-by-channel",
+  "params": {
+    "start_date": "1970-01-01",
+    "end_date": "2100-01-01",
+    "channel": null
+  },
+  "count": 3,
+  "results": [
+    {
+      "platform": "TikTok Ads",
+      "total_spend": 2653418.51,
+      "total_revenue": 20223540.07,
+      "total_conversions": 122452,
+      "roas": 7.6217,
+      "cpa": 21.67
+    },
+    {
+      "platform": "Meta Ads",
+      "total_spend": 2106061.67,
+      "total_revenue": 11926045.79,
+      "total_conversions": 73262,
+      "roas": 5.6627,
+      "cpa": 28.75
+    },
+    {
+      "platform": "Google Ads",
+      "total_spend": 6349268.91,
+      "total_revenue": 22033744.95,
+      "total_conversions": 131098,
+      "roas": 3.4703,
+      "cpa": 48.43
+    }
+  ]
+}

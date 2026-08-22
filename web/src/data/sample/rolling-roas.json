@@ -1,0 +1,6122 @@
+{
+  "route": "/rolling-roas",
+  "params": {
+    "start_date": "1970-01-01",
+    "end_date": "2100-01-01",
+    "channel": null
+  },
+  "count": 873,
+  "results": [
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-01",
+      "daily_spend": 3170.0,
+      "daily_revenue": 3670.88,
+      "rolling_7d_roas": 1.158
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-04",
+      "daily_spend": 19953.23,
+      "daily_revenue": 24924.4,
+      "rolling_7d_roas": 1.2366
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-05",
+      "daily_spend": 15668.95,
+      "daily_revenue": 64727.9,
+      "rolling_7d_roas": 2.4057
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-06",
+      "daily_spend": 3887.47,
+      "daily_revenue": 15835.46,
+      "rolling_7d_roas": 2.5576
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-07",
+      "daily_spend": 21959.64,
+      "daily_revenue": 49123.74,
+      "rolling_7d_roas": 2.4487
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-08",
+      "daily_spend": 14230.74,
+      "daily_revenue": 10672.41,
+      "rolling_7d_roas": 2.1834
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-09",
+      "daily_spend": 7601.31,
+      "daily_revenue": 28139.22,
+      "rolling_7d_roas": 2.322
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-10",
+      "daily_spend": 42769.86,
+      "daily_revenue": 139104.1,
+      "rolling_7d_roas": 2.6376
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-11",
+      "daily_spend": 6812.96,
+      "daily_revenue": 7504.87,
+      "rolling_7d_roas": 2.7903
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-12",
+      "daily_spend": 5584.65,
+      "daily_revenue": 20460.25,
+      "rolling_7d_roas": 2.6334
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-15",
+      "daily_spend": 18390.59,
+      "daily_revenue": 62149.61,
+      "rolling_7d_roas": 3.171
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-16",
+      "daily_spend": 13808.29,
+      "daily_revenue": 37194.83,
+      "rolling_7d_roas": 3.0494
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-17",
+      "daily_spend": 11296.29,
+      "daily_revenue": 19302.47,
+      "rolling_7d_roas": 2.6231
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-18",
+      "daily_spend": 14562.3,
+      "daily_revenue": 54354.99,
+      "rolling_7d_roas": 3.0398
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-19",
+      "daily_spend": 9283.32,
+      "daily_revenue": 27937.51,
+      "rolling_7d_roas": 2.9839
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-20",
+      "daily_spend": 33694.9,
+      "daily_revenue": 199701.36,
+      "rolling_7d_roas": 3.9653
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-21",
+      "daily_spend": 47577.76,
+      "daily_revenue": 88268.53,
+      "rolling_7d_roas": 3.2898
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-22",
+      "daily_spend": 28253.62,
+      "daily_revenue": 51035.96,
+      "rolling_7d_roas": 3.0149
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-23",
+      "daily_spend": 4531.32,
+      "daily_revenue": 20156.55,
+      "rolling_7d_roas": 3.0882
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-24",
+      "daily_spend": 1818.96,
+      "daily_revenue": 2004.67,
+      "rolling_7d_roas": 3.1739
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-25",
+      "daily_spend": 19020.63,
+      "daily_revenue": 116643.43,
+      "rolling_7d_roas": 3.5077
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-27",
+      "daily_spend": 18023.21,
+      "daily_revenue": 180906.82,
+      "rolling_7d_roas": 3.85
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-28",
+      "daily_spend": 12247.79,
+      "daily_revenue": 65115.1,
+      "rolling_7d_roas": 5.1953
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-29",
+      "daily_spend": 14946.38,
+      "daily_revenue": 75451.81,
+      "rolling_7d_roas": 6.5206
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-30",
+      "daily_spend": 22903.64,
+      "daily_revenue": 53391.99,
+      "rolling_7d_roas": 5.5476
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-01-31",
+      "daily_spend": 5212.74,
+      "daily_revenue": 22723.24,
+      "rolling_7d_roas": 5.568
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-02-01",
+      "daily_spend": 11560.09,
+      "daily_revenue": 49662.97,
+      "rolling_7d_roas": 5.2684
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-02-02",
+      "daily_spend": 27852.12,
+      "daily_revenue": 121184.55,
+      "rolling_7d_roas": 5.0417
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-02-04",
+      "daily_spend": 19672.08,
+      "daily_revenue": 48314.91,
+      "rolling_7d_roas": 3.6294
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-02-05",
+      "daily_spend": 515.1,
+      "daily_revenue": 161.02,
+      "rolling_7d_roas": 3.3681
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-02-06",
+      "daily_spend": 30912.41,
+      "daily_revenue": 119433.7,
+      "rolling_7d_roas": 3.7763
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-02-07",
+      "daily_spend": 27733.36,
+      "daily_revenue": 92119.23,
+      "rolling_7d_roas": 3.6439
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-02-08",
+      "daily_spend": 1007.51,
+      "daily_revenue": 908.68,
+      "rolling_7d_roas": 3.5483
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-02-10",
+      "daily_spend": 8804.56,
+      "daily_revenue": 27549.48,
+      "rolling_7d_roas": 3.2544
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-02-11",
+      "daily_spend": 13535.23,
+      "daily_revenue": 85021.93,
+      "rolling_7d_roas": 3.9414
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-02-13",
+      "daily_spend": 39601.7,
+      "daily_revenue": 118833.65,
+      "rolling_7d_roas": 3.5777
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-02-14",
+      "daily_spend": 2101.28,
+      "daily_revenue": 18551.01,
+      "rolling_7d_roas": 3.8565
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-02-15",
+      "daily_spend": 6489.31,
+      "daily_revenue": 10787.54,
+      "rolling_7d_roas": 3.6968
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-02-16",
+      "daily_spend": 49953.63,
+      "daily_revenue": 220347.1,
+      "rolling_7d_roas": 3.9929
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-02-17",
+      "daily_spend": 53988.93,
+      "daily_revenue": 146760.8,
+      "rolling_7d_roas": 3.6235
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-02-18",
+      "daily_spend": 8107.88,
+      "daily_revenue": 15379.69,
+      "rolling_7d_roas": 3.3116
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-02-19",
+      "daily_spend": 24409.08,
+      "daily_revenue": 87866.75,
+      "rolling_7d_roas": 3.3497
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-02-20",
+      "daily_spend": 36040.22,
+      "daily_revenue": 88625.4,
+      "rolling_7d_roas": 3.2488
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-02-21",
+      "daily_spend": 26735.73,
+      "daily_revenue": 54514.71,
+      "rolling_7d_roas": 3.0345
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-02-22",
+      "daily_spend": 10405.68,
+      "daily_revenue": 65729.3,
+      "rolling_7d_roas": 3.2399
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-02-23",
+      "daily_spend": 21367.33,
+      "daily_revenue": 79759.3,
+      "rolling_7d_roas": 2.975
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-02-25",
+      "daily_spend": 22486.12,
+      "daily_revenue": 124471.6,
+      "rolling_7d_roas": 3.5418
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-02-27",
+      "daily_spend": 40563.01,
+      "daily_revenue": 144808.9,
+      "rolling_7d_roas": 3.8606
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-02-28",
+      "daily_spend": 16612.19,
+      "daily_revenue": 53714.54,
+      "rolling_7d_roas": 4.2041
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-02-29",
+      "daily_spend": 44329.29,
+      "daily_revenue": 104624.82,
+      "rolling_7d_roas": 3.4906
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-01",
+      "daily_spend": 3129.1,
+      "daily_revenue": 27708.88,
+      "rolling_7d_roas": 3.5819
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-02",
+      "daily_spend": 2041.2,
+      "daily_revenue": 22785.52,
+      "rolling_7d_roas": 3.7017
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-03",
+      "daily_spend": 12644.73,
+      "daily_revenue": 50227.76,
+      "rolling_7d_roas": 3.3848
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-04",
+      "daily_spend": 3481.85,
+      "daily_revenue": 56004.19,
+      "rolling_7d_roas": 3.7449
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-05",
+      "daily_spend": 682.76,
+      "daily_revenue": 1542.21,
+      "rolling_7d_roas": 3.8182
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-06",
+      "daily_spend": 29707.62,
+      "daily_revenue": 255050.93,
+      "rolling_7d_roas": 5.3943
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-07",
+      "daily_spend": 10594.27,
+      "daily_revenue": 27463.64,
+      "rolling_7d_roas": 7.0773
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-08",
+      "daily_spend": 29988.08,
+      "daily_revenue": 68267.17,
+      "rolling_7d_roas": 5.3998
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-09",
+      "daily_spend": 6051.21,
+      "daily_revenue": 32398.76,
+      "rolling_7d_roas": 5.2706
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-10",
+      "daily_spend": 31745.58,
+      "daily_revenue": 60723.83,
+      "rolling_7d_roas": 4.4672
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-11",
+      "daily_spend": 50191.49,
+      "daily_revenue": 154856.46,
+      "rolling_7d_roas": 3.7764
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-12",
+      "daily_spend": 35079.91,
+      "daily_revenue": 156604.53,
+      "rolling_7d_roas": 3.9066
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-14",
+      "daily_spend": 3520.76,
+      "daily_revenue": 19700.58,
+      "rolling_7d_roas": 3.1457
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-15",
+      "daily_spend": 5535.0,
+      "daily_revenue": 86412.59,
+      "rolling_7d_roas": 3.8653
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-17",
+      "daily_spend": 29348.88,
+      "daily_revenue": 34313.58,
+      "rolling_7d_roas": 3.6538
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-18",
+      "daily_spend": 16931.67,
+      "daily_revenue": 38026.57,
+      "rolling_7d_roas": 3.7057
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-19",
+      "daily_spend": 11194.3,
+      "daily_revenue": 24545.05,
+      "rolling_7d_roas": 3.0512
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-21",
+      "daily_spend": 18263.2,
+      "daily_revenue": 29052.75,
+      "rolling_7d_roas": 2.6128
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-22",
+      "daily_spend": 3421.55,
+      "daily_revenue": 12229.96,
+      "rolling_7d_roas": 1.7454
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-23",
+      "daily_spend": 20139.37,
+      "daily_revenue": 60726.23,
+      "rolling_7d_roas": 2.003
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-24",
+      "daily_spend": 29260.44,
+      "daily_revenue": 29978.07,
+      "rolling_7d_roas": 1.9611
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-25",
+      "daily_spend": 43165.43,
+      "daily_revenue": 217996.72,
+      "rolling_7d_roas": 2.9856
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-26",
+      "daily_spend": 26230.68,
+      "daily_revenue": 106238.94,
+      "rolling_7d_roas": 3.2476
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-27",
+      "daily_spend": 24624.0,
+      "daily_revenue": 126165.83,
+      "rolling_7d_roas": 3.5274
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-29",
+      "daily_spend": 45287.28,
+      "daily_revenue": 229488.95,
+      "rolling_7d_roas": 4.0835
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-03-30",
+      "daily_spend": 37019.37,
+      "daily_revenue": 82625.17,
+      "rolling_7d_roas": 3.8548
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-02",
+      "daily_spend": 19437.28,
+      "daily_revenue": 28639.62,
+      "rolling_7d_roas": 3.6949
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-03",
+      "daily_spend": 18514.3,
+      "daily_revenue": 16348.57,
+      "rolling_7d_roas": 2.9695
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-04",
+      "daily_spend": 30584.2,
+      "daily_revenue": 147267.02,
+      "rolling_7d_roas": 3.3437
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-05",
+      "daily_spend": 47023.38,
+      "daily_revenue": 156157.26,
+      "rolling_7d_roas": 2.825
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-06",
+      "daily_spend": 4323.32,
+      "daily_revenue": 76876.24,
+      "rolling_7d_roas": 3.5475
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-08",
+      "daily_spend": 62113.5,
+      "daily_revenue": 120677.38,
+      "rolling_7d_roas": 2.9999
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-09",
+      "daily_spend": 53288.06,
+      "daily_revenue": 137727.46,
+      "rolling_7d_roas": 3.0348
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-10",
+      "daily_spend": 8310.32,
+      "daily_revenue": 139644.2,
+      "rolling_7d_roas": 3.785
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-11",
+      "daily_spend": 8831.4,
+      "daily_revenue": 64234.99,
+      "rolling_7d_roas": 3.7812
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-12",
+      "daily_spend": 13688.77,
+      "daily_revenue": 14703.87,
+      "rolling_7d_roas": 3.6788
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-13",
+      "daily_spend": 43570.36,
+      "daily_revenue": 243769.46,
+      "rolling_7d_roas": 3.7974
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-14",
+      "daily_spend": 31093.33,
+      "daily_revenue": 77283.66,
+      "rolling_7d_roas": 3.6127
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-15",
+      "daily_spend": 13406.07,
+      "daily_revenue": 70223.82,
+      "rolling_7d_roas": 4.3417
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-16",
+      "daily_spend": 42960.68,
+      "daily_revenue": 251977.52,
+      "rolling_7d_roas": 5.3246
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-17",
+      "daily_spend": 28613.78,
+      "daily_revenue": 182340.21,
+      "rolling_7d_roas": 4.9655
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-18",
+      "daily_spend": 511.88,
+      "daily_revenue": 1623.76,
+      "rolling_7d_roas": 4.843
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-20",
+      "daily_spend": 9691.36,
+      "daily_revenue": 34560.39,
+      "rolling_7d_roas": 4.8941
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-21",
+      "daily_spend": 7537.92,
+      "daily_revenue": 79715.61,
+      "rolling_7d_roas": 6.04
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-22",
+      "daily_spend": 29873.3,
+      "daily_revenue": 64985.26,
+      "rolling_7d_roas": 5.1616
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-24",
+      "daily_spend": 17507.84,
+      "daily_revenue": 19830.15,
+      "rolling_7d_roas": 3.0821
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-25",
+      "daily_spend": 2039.31,
+      "daily_revenue": 31968.71,
+      "rolling_7d_roas": 3.4668
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-26",
+      "daily_spend": 23093.77,
+      "daily_revenue": 32808.79,
+      "rolling_7d_roas": 2.9403
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-27",
+      "daily_spend": 17843.17,
+      "daily_revenue": 69617.05,
+      "rolling_7d_roas": 3.0535
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-28",
+      "daily_spend": 15243.13,
+      "daily_revenue": 27125.75,
+      "rolling_7d_roas": 2.3327
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-29",
+      "daily_spend": 15801.82,
+      "daily_revenue": 42466.03,
+      "rolling_7d_roas": 2.4453
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-04-30",
+      "daily_spend": 48308.8,
+      "daily_revenue": 72163.93,
+      "rolling_7d_roas": 2.1166
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-01",
+      "daily_spend": 11637.0,
+      "daily_revenue": 16618.47,
+      "rolling_7d_roas": 2.1854
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-02",
+      "daily_spend": 22796.79,
+      "daily_revenue": 12044.01,
+      "rolling_7d_roas": 1.7634
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-03",
+      "daily_spend": 10792.96,
+      "daily_revenue": 40442.85,
+      "rolling_7d_roas": 1.9693
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-04",
+      "daily_spend": 20604.56,
+      "daily_revenue": 42397.44,
+      "rolling_7d_roas": 1.7444
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-05",
+      "daily_spend": 36861.32,
+      "daily_revenue": 94197.07,
+      "rolling_7d_roas": 1.9204
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-06",
+      "daily_spend": 8657.8,
+      "daily_revenue": 16836.59,
+      "rolling_7d_roas": 1.8458
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-07",
+      "daily_spend": 336.3,
+      "daily_revenue": 1359.76,
+      "rolling_7d_roas": 2.0047
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-08",
+      "daily_spend": 9887.01,
+      "daily_revenue": 43235.35,
+      "rolling_7d_roas": 2.2787
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-09",
+      "daily_spend": 28542.95,
+      "daily_revenue": 109703.15,
+      "rolling_7d_roas": 3.0097
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-10",
+      "daily_spend": 10331.34,
+      "daily_revenue": 126086.51,
+      "rolling_7d_roas": 3.7651
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-11",
+      "daily_spend": 22055.88,
+      "daily_revenue": 51455.77,
+      "rolling_7d_roas": 3.7959
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-12",
+      "daily_spend": 2901.87,
+      "daily_revenue": 31980.19,
+      "rolling_7d_roas": 4.6021
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-13",
+      "daily_spend": 29817.63,
+      "daily_revenue": 109167.95,
+      "rolling_7d_roas": 4.5535
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-14",
+      "daily_spend": 42397.83,
+      "daily_revenue": 85472.99,
+      "rolling_7d_roas": 3.8175
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-15",
+      "daily_spend": 23098.95,
+      "daily_revenue": 108695.96,
+      "rolling_7d_roas": 3.9119
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-16",
+      "daily_spend": 10545.76,
+      "daily_revenue": 15837.11,
+      "rolling_7d_roas": 3.7457
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-17",
+      "daily_spend": 65290.36,
+      "daily_revenue": 218607.93,
+      "rolling_7d_roas": 3.1677
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-18",
+      "daily_spend": 804.54,
+      "daily_revenue": 11553.7,
+      "rolling_7d_roas": 3.3245
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-19",
+      "daily_spend": 4565.15,
+      "daily_revenue": 11594.32,
+      "rolling_7d_roas": 3.1777
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-20",
+      "daily_spend": 9409.16,
+      "daily_revenue": 33272.11,
+      "rolling_7d_roas": 3.107
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-21",
+      "daily_spend": 4978.75,
+      "daily_revenue": 31719.79,
+      "rolling_7d_roas": 3.6336
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-23",
+      "daily_spend": 32494.67,
+      "daily_revenue": 56452.17,
+      "rolling_7d_roas": 3.0899
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-24",
+      "daily_spend": 5941.5,
+      "daily_revenue": 28653.63,
+      "rolling_7d_roas": 2.977
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-25",
+      "daily_spend": 50326.84,
+      "daily_revenue": 70800.88,
+      "rolling_7d_roas": 2.1584
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-26",
+      "daily_spend": 27937.71,
+      "daily_revenue": 85130.3,
+      "rolling_7d_roas": 2.3345
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-27",
+      "daily_spend": 19703.4,
+      "daily_revenue": 58990.77,
+      "rolling_7d_roas": 2.3464
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-28",
+      "daily_spend": 21121.0,
+      "daily_revenue": 27647.85,
+      "rolling_7d_roas": 2.0801
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-05-31",
+      "daily_spend": 45661.89,
+      "daily_revenue": 86204.96,
+      "rolling_7d_roas": 1.9956
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-01",
+      "daily_spend": 30990.6,
+      "daily_revenue": 46123.71,
+      "rolling_7d_roas": 2.0912
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-02",
+      "daily_spend": 11539.5,
+      "daily_revenue": 70798.01,
+      "rolling_7d_roas": 2.246
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-03",
+      "daily_spend": 2704.35,
+      "daily_revenue": 6126.9,
+      "rolling_7d_roas": 2.1149
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-04",
+      "daily_spend": 9516.02,
+      "daily_revenue": 16220.23,
+      "rolling_7d_roas": 2.2455
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-05",
+      "daily_spend": 25034.81,
+      "daily_revenue": 143475.77,
+      "rolling_7d_roas": 2.9411
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-06",
+      "daily_spend": 24910.21,
+      "daily_revenue": 96052.42,
+      "rolling_7d_roas": 3.0926
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-08",
+      "daily_spend": 9510.14,
+      "daily_revenue": 25060.16,
+      "rolling_7d_roas": 4.2989
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-09",
+      "daily_spend": 19405.53,
+      "daily_revenue": 50171.82,
+      "rolling_7d_roas": 3.7012
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-10",
+      "daily_spend": 5783.8,
+      "daily_revenue": 24150.02,
+      "rolling_7d_roas": 3.7715
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-12",
+      "daily_spend": 8030.23,
+      "daily_revenue": 7976.29,
+      "rolling_7d_roas": 3.0073
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-13",
+      "daily_spend": 29499.63,
+      "daily_revenue": 94367.47,
+      "rolling_7d_roas": 2.7929
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-14",
+      "daily_spend": 11613.04,
+      "daily_revenue": 21834.97,
+      "rolling_7d_roas": 2.6664
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-15",
+      "daily_spend": 12816.86,
+      "daily_revenue": 4652.6,
+      "rolling_7d_roas": 2.3311
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-17",
+      "daily_spend": 20626.8,
+      "daily_revenue": 82977.97,
+      "rolling_7d_roas": 2.5647
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-18",
+      "daily_spend": 20020.19,
+      "daily_revenue": 21726.14,
+      "rolling_7d_roas": 2.276
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-19",
+      "daily_spend": 19112.14,
+      "daily_revenue": 24507.4,
+      "rolling_7d_roas": 2.1996
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-22",
+      "daily_spend": 12719.14,
+      "daily_revenue": 61322.57,
+      "rolling_7d_roas": 2.6288
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-23",
+      "daily_spend": 34128.36,
+      "daily_revenue": 124220.0,
+      "rolling_7d_roas": 2.9525
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-24",
+      "daily_spend": 89869.03,
+      "daily_revenue": 255279.27,
+      "rolling_7d_roas": 2.7697
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-25",
+      "daily_spend": 24798.57,
+      "daily_revenue": 137549.93,
+      "rolling_7d_roas": 3.3377
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-26",
+      "daily_spend": 29800.75,
+      "daily_revenue": 108604.24,
+      "rolling_7d_roas": 3.5908
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-27",
+      "daily_spend": 6045.56,
+      "daily_revenue": 4868.51,
+      "rolling_7d_roas": 3.5055
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-28",
+      "daily_spend": 71647.46,
+      "daily_revenue": 460548.67,
+      "rolling_7d_roas": 4.2838
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-29",
+      "daily_spend": 26813.7,
+      "daily_revenue": 46692.34,
+      "rolling_7d_roas": 4.0189
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-06-30",
+      "daily_spend": 30075.58,
+      "daily_revenue": 113141.78,
+      "rolling_7d_roas": 4.0376
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-02",
+      "daily_spend": 13012.11,
+      "daily_revenue": 40288.48,
+      "rolling_7d_roas": 4.364
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-03",
+      "daily_spend": 27727.67,
+      "daily_revenue": 31954.27,
+      "rolling_7d_roas": 3.9784
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-04",
+      "daily_spend": 10360.15,
+      "daily_revenue": 37920.46,
+      "rolling_7d_roas": 4.0668
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-05",
+      "daily_spend": 817.53,
+      "daily_revenue": 872.75,
+      "rolling_7d_roas": 2.4895
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-06",
+      "daily_spend": 5709.33,
+      "daily_revenue": 39533.49,
+      "rolling_7d_roas": 3.0069
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-08",
+      "daily_spend": 32713.35,
+      "daily_revenue": 89645.17,
+      "rolling_7d_roas": 2.659
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-09",
+      "daily_spend": 1412.0,
+      "daily_revenue": 3302.39,
+      "rolling_7d_roas": 2.581
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-10",
+      "daily_spend": 19353.36,
+      "daily_revenue": 42482.19,
+      "rolling_7d_roas": 3.0378
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-12",
+      "daily_spend": 10787.74,
+      "daily_revenue": 35941.14,
+      "rolling_7d_roas": 3.014
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-13",
+      "daily_spend": 6358.3,
+      "daily_revenue": 2253.91,
+      "rolling_7d_roas": 2.4584
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-14",
+      "daily_spend": 37333.38,
+      "daily_revenue": 164608.13,
+      "rolling_7d_roas": 3.133
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-16",
+      "daily_spend": 20959.81,
+      "daily_revenue": 115871.3,
+      "rolling_7d_roas": 3.81
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-17",
+      "daily_spend": 12595.6,
+      "daily_revenue": 50867.61,
+      "rolling_7d_roas": 4.1977
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-18",
+      "daily_spend": 8665.96,
+      "daily_revenue": 33206.9,
+      "rolling_7d_roas": 4.1649
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-19",
+      "daily_spend": 46115.71,
+      "daily_revenue": 125698.8,
+      "rolling_7d_roas": 3.7303
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-21",
+      "daily_spend": 31017.48,
+      "daily_revenue": 10260.33,
+      "rolling_7d_roas": 2.8143
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-22",
+      "daily_spend": 41479.4,
+      "daily_revenue": 165338.62,
+      "rolling_7d_roas": 3.1165
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-23",
+      "daily_spend": 16353.44,
+      "daily_revenue": 37143.08,
+      "rolling_7d_roas": 2.7045
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-24",
+      "daily_spend": 10008.25,
+      "daily_revenue": 62250.35,
+      "rolling_7d_roas": 2.8241
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-25",
+      "daily_spend": 12668.4,
+      "daily_revenue": 66254.75,
+      "rolling_7d_roas": 2.9621
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-26",
+      "daily_spend": 20800.64,
+      "daily_revenue": 53063.65,
+      "rolling_7d_roas": 2.9798
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-27",
+      "daily_spend": 14140.7,
+      "daily_revenue": 47335.89,
+      "rolling_7d_roas": 3.0153
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-28",
+      "daily_spend": 47739.38,
+      "daily_revenue": 145263.98,
+      "rolling_7d_roas": 3.5336
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-29",
+      "daily_spend": 11315.32,
+      "daily_revenue": 72785.99,
+      "rolling_7d_roas": 3.6391
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-30",
+      "daily_spend": 8837.26,
+      "daily_revenue": 28988.27,
+      "rolling_7d_roas": 3.7921
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-07-31",
+      "daily_spend": 6987.63,
+      "daily_revenue": 12463.37,
+      "rolling_7d_roas": 3.4791
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-01",
+      "daily_spend": 23954.66,
+      "daily_revenue": 31644.56,
+      "rolling_7d_roas": 2.9269
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-02",
+      "daily_spend": 11348.7,
+      "daily_revenue": 64553.15,
+      "rolling_7d_roas": 3.2418
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-03",
+      "daily_spend": 9771.99,
+      "daily_revenue": 63148.22,
+      "rolling_7d_roas": 3.4917
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-04",
+      "daily_spend": 59621.02,
+      "daily_revenue": 134069.4,
+      "rolling_7d_roas": 3.0921
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-05",
+      "daily_spend": 14108.64,
+      "daily_revenue": 51341.85,
+      "rolling_7d_roas": 2.8687
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-06",
+      "daily_spend": 17260.2,
+      "daily_revenue": 110259.22,
+      "rolling_7d_roas": 3.2679
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-07",
+      "daily_spend": 10946.16,
+      "daily_revenue": 7960.57,
+      "rolling_7d_roas": 3.1493
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-09",
+      "daily_spend": 2278.53,
+      "daily_revenue": 5506.03,
+      "rolling_7d_roas": 3.266
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-10",
+      "daily_spend": 572.32,
+      "daily_revenue": 5921.83,
+      "rolling_7d_roas": 3.0067
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-12",
+      "daily_spend": 18836.42,
+      "daily_revenue": 46173.17,
+      "rolling_7d_roas": 3.5239
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-14",
+      "daily_spend": 23588.32,
+      "daily_revenue": 84902.29,
+      "rolling_7d_roas": 3.1475
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-15",
+      "daily_spend": 25987.23,
+      "daily_revenue": 124965.64,
+      "rolling_7d_roas": 3.7533
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-16",
+      "daily_spend": 24641.49,
+      "daily_revenue": 134905.75,
+      "rolling_7d_roas": 4.2389
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-17",
+      "daily_spend": 5170.0,
+      "daily_revenue": 14702.27,
+      "rolling_7d_roas": 4.1299
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-18",
+      "daily_spend": 14702.39,
+      "daily_revenue": 76527.74,
+      "rolling_7d_roas": 4.2699
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-19",
+      "daily_spend": 38077.42,
+      "daily_revenue": 153941.55,
+      "rolling_7d_roas": 4.4636
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-20",
+      "daily_spend": 30476.51,
+      "daily_revenue": 184615.19,
+      "rolling_7d_roas": 4.7623
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-21",
+      "daily_spend": 6430.72,
+      "daily_revenue": 17709.21,
+      "rolling_7d_roas": 4.8621
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-22",
+      "daily_spend": 23696.95,
+      "daily_revenue": 134309.86,
+      "rolling_7d_roas": 5.0051
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-26",
+      "daily_spend": 13024.17,
+      "daily_revenue": 102989.98,
+      "rolling_7d_roas": 5.9709
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-27",
+      "daily_spend": 5049.82,
+      "daily_revenue": 27701.27,
+      "rolling_7d_roas": 5.8652
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-28",
+      "daily_spend": 40719.65,
+      "daily_revenue": 179484.13,
+      "rolling_7d_roas": 5.3883
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-29",
+      "daily_spend": 17457.8,
+      "daily_revenue": 70158.06,
+      "rolling_7d_roas": 4.9879
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-30",
+      "daily_spend": 940.39,
+      "daily_revenue": 3637.08,
+      "rolling_7d_roas": 4.9742
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-08-31",
+      "daily_spend": 10583.74,
+      "daily_revenue": 40095.11,
+      "rolling_7d_roas": 4.8312
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-01",
+      "daily_spend": 19626.3,
+      "daily_revenue": 55878.12,
+      "rolling_7d_roas": 4.4687
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-02",
+      "daily_spend": 21081.95,
+      "daily_revenue": 28149.55,
+      "rolling_7d_roas": 3.5086
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-03",
+      "daily_spend": 38853.64,
+      "daily_revenue": 93175.63,
+      "rolling_7d_roas": 3.1527
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-04",
+      "daily_spend": 9153.6,
+      "daily_revenue": 18155.37,
+      "rolling_7d_roas": 2.6275
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-05",
+      "daily_spend": 40953.52,
+      "daily_revenue": 162794.84,
+      "rolling_7d_roas": 2.8464
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-06",
+      "daily_spend": 61713.03,
+      "daily_revenue": 247023.85,
+      "rolling_7d_roas": 3.195
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-07",
+      "daily_spend": 23247.46,
+      "daily_revenue": 33902.14,
+      "rolling_7d_roas": 2.9776
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-09",
+      "daily_spend": 9544.48,
+      "daily_revenue": 40561.09,
+      "rolling_7d_roas": 3.2465
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-10",
+      "daily_spend": 38951.92,
+      "daily_revenue": 178970.77,
+      "rolling_7d_roas": 3.7121
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-11",
+      "daily_spend": 7133.82,
+      "daily_revenue": 93081.21,
+      "rolling_7d_roas": 4.1661
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-12",
+      "daily_spend": 43348.84,
+      "daily_revenue": 78813.57,
+      "rolling_7d_roas": 3.6553
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-13",
+      "daily_spend": 2464.68,
+      "daily_revenue": 6024.46,
+      "rolling_7d_roas": 3.4594
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-14",
+      "daily_spend": 12938.44,
+      "daily_revenue": 57916.83,
+      "rolling_7d_roas": 3.9811
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-15",
+      "daily_spend": 34402.82,
+      "daily_revenue": 116613.61,
+      "rolling_7d_roas": 3.8443
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-16",
+      "daily_spend": 9865.14,
+      "daily_revenue": 17016.71,
+      "rolling_7d_roas": 3.6782
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-17",
+      "daily_spend": 15439.71,
+      "daily_revenue": 20056.78,
+      "rolling_7d_roas": 3.1015
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-18",
+      "daily_spend": 19162.44,
+      "daily_revenue": 47970.13,
+      "rolling_7d_roas": 2.5026
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-19",
+      "daily_spend": 5766.65,
+      "daily_revenue": 15175.48,
+      "rolling_7d_roas": 2.8066
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-20",
+      "daily_spend": 12030.17,
+      "daily_revenue": 58628.48,
+      "rolling_7d_roas": 3.0416
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-21",
+      "daily_spend": 1385.7,
+      "daily_revenue": 10712.26,
+      "rolling_7d_roas": 2.9186
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-22",
+      "daily_spend": 13333.44,
+      "daily_revenue": 75491.87,
+      "rolling_7d_roas": 3.1832
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-23",
+      "daily_spend": 31935.47,
+      "daily_revenue": 34204.21,
+      "rolling_7d_roas": 2.6474
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-24",
+      "daily_spend": 17647.92,
+      "daily_revenue": 123364.05,
+      "rolling_7d_roas": 3.6099
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-25",
+      "daily_spend": 6895.5,
+      "daily_revenue": 12419.76,
+      "rolling_7d_roas": 3.708
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-26",
+      "daily_spend": 38274.3,
+      "daily_revenue": 180741.39,
+      "rolling_7d_roas": 4.0786
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-27",
+      "daily_spend": 5248.47,
+      "daily_revenue": 16637.87,
+      "rolling_7d_roas": 3.9537
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-28",
+      "daily_spend": 16758.36,
+      "daily_revenue": 38220.88,
+      "rolling_7d_roas": 3.698
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-29",
+      "daily_spend": 4975.02,
+      "daily_revenue": 15149.72,
+      "rolling_7d_roas": 3.4562
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-09-30",
+      "daily_spend": 14767.1,
+      "daily_revenue": 46373.44,
+      "rolling_7d_roas": 4.14
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-10-03",
+      "daily_spend": 13543.19,
+      "daily_revenue": 48456.8,
+      "rolling_7d_roas": 2.9812
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-10-05",
+      "daily_spend": 22425.99,
+      "daily_revenue": 117082.42,
+      "rolling_7d_roas": 4.0757
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-10-08",
+      "daily_spend": 17966.58,
+      "daily_revenue": 152085.31,
+      "rolling_7d_roas": 5.8889
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-10-12",
+      "daily_spend": 30725.32,
+      "daily_revenue": 164075.39,
+      "rolling_7d_roas": 6.4931
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-10-13",
+      "daily_spend": 5104.68,
+      "daily_revenue": 39016.05,
+      "rolling_7d_roas": 6.6022
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-10-14",
+      "daily_spend": 12539.66,
+      "daily_revenue": 25691.86,
+      "rolling_7d_roas": 5.7415
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-10-16",
+      "daily_spend": 11430.12,
+      "daily_revenue": 14305.21,
+      "rolling_7d_roas": 4.065
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-10-17",
+      "daily_spend": 12564.86,
+      "daily_revenue": 19637.27,
+      "rolling_7d_roas": 3.6306
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-10-18",
+      "daily_spend": 2291.9,
+      "daily_revenue": 18417.53,
+      "rolling_7d_roas": 3.7658
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-10-19",
+      "daily_spend": 19502.85,
+      "daily_revenue": 82925.37,
+      "rolling_7d_roas": 3.1528
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-10-20",
+      "daily_spend": 7052.22,
+      "daily_revenue": 19432.37,
+      "rolling_7d_roas": 2.7593
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-10-21",
+      "daily_spend": 7523.72,
+      "daily_revenue": 33241.31,
+      "rolling_7d_roas": 3.1137
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-10-22",
+      "daily_spend": 18574.41,
+      "daily_revenue": 143475.86,
+      "rolling_7d_roas": 4.1986
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-10-23",
+      "daily_spend": 11661.58,
+      "daily_revenue": 33658.42,
+      "rolling_7d_roas": 4.4307
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-10-24",
+      "daily_spend": 22200.64,
+      "daily_revenue": 134133.52,
+      "rolling_7d_roas": 5.2393
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-10-25",
+      "daily_spend": 27517.91,
+      "daily_revenue": 66529.61,
+      "rolling_7d_roas": 4.5022
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-10-26",
+      "daily_spend": 77273.77,
+      "daily_revenue": 277764.54,
+      "rolling_7d_roas": 4.1223
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-10-27",
+      "daily_spend": 2887.05,
+      "daily_revenue": 29467.42,
+      "rolling_7d_roas": 4.2846
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-10-28",
+      "daily_spend": 41439.15,
+      "daily_revenue": 123843.53,
+      "rolling_7d_roas": 4.0132
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-10-29",
+      "daily_spend": 56026.4,
+      "daily_revenue": 108373.55,
+      "rolling_7d_roas": 3.2374
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-10-30",
+      "daily_spend": 7334.07,
+      "daily_revenue": 91782.77,
+      "rolling_7d_roas": 3.5448
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-01",
+      "daily_spend": 1857.25,
+      "daily_revenue": 4344.96,
+      "rolling_7d_roas": 3.4021
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-02",
+      "daily_spend": 13322.63,
+      "daily_revenue": 53197.18,
+      "rolling_7d_roas": 3.3452
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-03",
+      "daily_spend": 36231.8,
+      "daily_revenue": 104545.74,
+      "rolling_7d_roas": 3.1117
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-04",
+      "daily_spend": 44312.4,
+      "daily_revenue": 209010.54,
+      "rolling_7d_roas": 3.5909
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-05",
+      "daily_spend": 1235.33,
+      "daily_revenue": 4396.12,
+      "rolling_7d_roas": 4.4804
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-06",
+      "daily_spend": 1758.25,
+      "daily_revenue": 4123.58,
+      "rolling_7d_roas": 3.8455
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-08",
+      "daily_spend": 26367.55,
+      "daily_revenue": 37564.0,
+      "rolling_7d_roas": 3.3502
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-09",
+      "daily_spend": 42213.1,
+      "daily_revenue": 130449.1,
+      "rolling_7d_roas": 3.2218
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-10",
+      "daily_spend": 13803.19,
+      "daily_revenue": 39257.06,
+      "rolling_7d_roas": 3.2755
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-11",
+      "daily_spend": 15165.28,
+      "daily_revenue": 81015.37,
+      "rolling_7d_roas": 2.952
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-12",
+      "daily_spend": 5139.75,
+      "daily_revenue": 11136.73,
+      "rolling_7d_roas": 2.9062
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-13",
+      "daily_spend": 37081.06,
+      "daily_revenue": 211080.19,
+      "rolling_7d_roas": 3.6524
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-14",
+      "daily_spend": 3918.52,
+      "daily_revenue": 5647.0,
+      "rolling_7d_roas": 3.5921
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-16",
+      "daily_spend": 7590.54,
+      "daily_revenue": 30598.06,
+      "rolling_7d_roas": 4.5797
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-17",
+      "daily_spend": 37454.8,
+      "daily_revenue": 24718.19,
+      "rolling_7d_roas": 3.4245
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-19",
+      "daily_spend": 16791.74,
+      "daily_revenue": 117518.49,
+      "rolling_7d_roas": 3.7882
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-21",
+      "daily_spend": 12298.33,
+      "daily_revenue": 24697.7,
+      "rolling_7d_roas": 2.6645
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-23",
+      "daily_spend": 46287.25,
+      "daily_revenue": 51769.63,
+      "rolling_7d_roas": 1.9383
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-24",
+      "daily_spend": 7079.22,
+      "daily_revenue": 63884.45,
+      "rolling_7d_roas": 3.1273
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-25",
+      "daily_spend": 14429.07,
+      "daily_revenue": 37366.92,
+      "rolling_7d_roas": 3.0473
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-26",
+      "daily_spend": 14386.19,
+      "daily_revenue": 35746.69,
+      "rolling_7d_roas": 2.2594
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-27",
+      "daily_spend": 19935.48,
+      "daily_revenue": 112821.78,
+      "rolling_7d_roas": 2.8518
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-28",
+      "daily_spend": 2011.28,
+      "daily_revenue": 1786.84,
+      "rolling_7d_roas": 2.9135
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-29",
+      "daily_spend": 43314.83,
+      "daily_revenue": 16345.74,
+      "rolling_7d_roas": 2.1684
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-11-30",
+      "daily_spend": 28240.33,
+      "daily_revenue": 184223.12,
+      "rolling_7d_roas": 3.4945
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-01",
+      "daily_spend": 31186.17,
+      "daily_revenue": 105296.42,
+      "rolling_7d_roas": 3.2155
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-02",
+      "daily_spend": 15745.84,
+      "daily_revenue": 44024.54,
+      "rolling_7d_roas": 3.2311
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-04",
+      "daily_spend": 32605.07,
+      "daily_revenue": 135609.24,
+      "rolling_7d_roas": 3.1827
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-05",
+      "daily_spend": 28778.38,
+      "daily_revenue": 86180.18,
+      "rolling_7d_roas": 3.1783
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-07",
+      "daily_spend": 23522.8,
+      "daily_revenue": 105358.98,
+      "rolling_7d_roas": 3.614
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-08",
+      "daily_spend": 14086.93,
+      "daily_revenue": 50233.44,
+      "rolling_7d_roas": 3.6727
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-09",
+      "daily_spend": 6888.06,
+      "daily_revenue": 30920.99,
+      "rolling_7d_roas": 3.8562
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-10",
+      "daily_spend": 13342.15,
+      "daily_revenue": 107571.89,
+      "rolling_7d_roas": 4.327
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-11",
+      "daily_spend": 29621.58,
+      "daily_revenue": 145405.28,
+      "rolling_7d_roas": 4.5223
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-12",
+      "daily_spend": 24286.61,
+      "daily_revenue": 35109.96,
+      "rolling_7d_roas": 4.2471
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-13",
+      "daily_spend": 1907.16,
+      "daily_revenue": 3807.61,
+      "rolling_7d_roas": 4.2093
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-14",
+      "daily_spend": 50178.21,
+      "daily_revenue": 204433.43,
+      "rolling_7d_roas": 4.1157
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-15",
+      "daily_spend": 51655.34,
+      "daily_revenue": 192975.21,
+      "rolling_7d_roas": 4.049
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-16",
+      "daily_spend": 19646.61,
+      "daily_revenue": 24910.11,
+      "rolling_7d_roas": 3.7464
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-18",
+      "daily_spend": 27693.12,
+      "daily_revenue": 50954.47,
+      "rolling_7d_roas": 2.9207
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-19",
+      "daily_spend": 15541.68,
+      "daily_revenue": 34256.99,
+      "rolling_7d_roas": 3.0688
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-20",
+      "daily_spend": 5319.26,
+      "daily_revenue": 8506.9,
+      "rolling_7d_roas": 3.0349
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-21",
+      "daily_spend": 57702.7,
+      "daily_revenue": 128360.96,
+      "rolling_7d_roas": 2.4779
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-22",
+      "daily_spend": 2002.44,
+      "daily_revenue": 10930.4,
+      "rolling_7d_roas": 2.0165
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-23",
+      "daily_spend": 71084.05,
+      "daily_revenue": 273272.22,
+      "rolling_7d_roas": 2.823
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-24",
+      "daily_spend": 29170.0,
+      "daily_revenue": 112676.61,
+      "rolling_7d_roas": 2.9684
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-25",
+      "daily_spend": 1006.0,
+      "daily_revenue": 1306.45,
+      "rolling_7d_roas": 3.1311
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-26",
+      "daily_spend": 33916.72,
+      "daily_revenue": 102593.85,
+      "rolling_7d_roas": 3.185
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-28",
+      "daily_spend": 8970.85,
+      "daily_revenue": 36566.56,
+      "rolling_7d_roas": 3.6767
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-29",
+      "daily_spend": 30016.32,
+      "daily_revenue": 82090.9,
+      "rolling_7d_roas": 3.4939
+    },
+    {
+      "platform": "Google Ads",
+      "event_date": "2024-12-30",
+      "daily_spend": 31170.5,
+      "daily_revenue": 59593.57,
+      "rolling_7d_roas": 2.941
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-02",
+      "daily_spend": 12359.19,
+      "daily_revenue": 97609.72,
+      "rolling_7d_roas": 7.8977
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-03",
+      "daily_spend": 21508.5,
+      "daily_revenue": 58336.27,
+      "rolling_7d_roas": 4.6046
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-04",
+      "daily_spend": 9229.93,
+      "daily_revenue": 116956.81,
+      "rolling_7d_roas": 6.3322
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-05",
+      "daily_spend": 5064.01,
+      "daily_revenue": 16223.53,
+      "rolling_7d_roas": 6.0033
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-06",
+      "daily_spend": 2771.19,
+      "daily_revenue": 33237.29,
+      "rolling_7d_roas": 6.3292
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-07",
+      "daily_spend": 10644.45,
+      "daily_revenue": 110160.57,
+      "rolling_7d_roas": 7.0241
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-08",
+      "daily_spend": 2941.96,
+      "daily_revenue": 28717.22,
+      "rolling_7d_roas": 7.1489
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-10",
+      "daily_spend": 12141.53,
+      "daily_revenue": 129012.16,
+      "rolling_7d_roas": 10.149
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-11",
+      "daily_spend": 11503.86,
+      "daily_revenue": 19794.53,
+      "rolling_7d_roas": 7.481
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-12",
+      "daily_spend": 9384.14,
+      "daily_revenue": 99880.31,
+      "rolling_7d_roas": 8.5205
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-13",
+      "daily_spend": 5447.42,
+      "daily_revenue": 55490.36,
+      "rolling_7d_roas": 8.5099
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-14",
+      "daily_spend": 1151.04,
+      "daily_revenue": 9636.88,
+      "rolling_7d_roas": 8.0463
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-15",
+      "daily_spend": 4868.46,
+      "daily_revenue": 53909.5,
+      "rolling_7d_roas": 8.2641
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-16",
+      "daily_spend": 5616.68,
+      "daily_revenue": 42262.82,
+      "rolling_7d_roas": 8.1812
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-17",
+      "daily_spend": 16183.58,
+      "daily_revenue": 116389.58,
+      "rolling_7d_roas": 7.3375
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-18",
+      "daily_spend": 11638.56,
+      "daily_revenue": 15220.46,
+      "rolling_7d_roas": 7.235
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-19",
+      "daily_spend": 15663.3,
+      "daily_revenue": 70127.91,
+      "rolling_7d_roas": 5.9938
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-20",
+      "daily_spend": 4159.36,
+      "daily_revenue": 3826.61,
+      "rolling_7d_roas": 5.2525
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-21",
+      "daily_spend": 5253.0,
+      "daily_revenue": 43732.39,
+      "rolling_7d_roas": 5.4505
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-22",
+      "daily_spend": 5812.42,
+      "daily_revenue": 91948.88,
+      "rolling_7d_roas": 5.9619
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-23",
+      "daily_spend": 4412.94,
+      "daily_revenue": 39560.54,
+      "rolling_7d_roas": 6.0328
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-24",
+      "daily_spend": 10069.98,
+      "daily_revenue": 56534.15,
+      "rolling_7d_roas": 5.6298
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-25",
+      "daily_spend": 778.96,
+      "daily_revenue": 3860.75,
+      "rolling_7d_roas": 6.7084
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-26",
+      "daily_spend": 1430.69,
+      "daily_revenue": 17092.48,
+      "rolling_7d_roas": 8.0381
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-27",
+      "daily_spend": 12316.62,
+      "daily_revenue": 16042.9,
+      "rolling_7d_roas": 6.7068
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-28",
+      "daily_spend": 5424.64,
+      "daily_revenue": 69138.53,
+      "rolling_7d_roas": 7.3095
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-29",
+      "daily_spend": 1689.3,
+      "daily_revenue": 12792.52,
+      "rolling_7d_roas": 5.9525
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-30",
+      "daily_spend": 10588.28,
+      "daily_revenue": 50929.89,
+      "rolling_7d_roas": 5.3522
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-01-31",
+      "daily_spend": 9896.4,
+      "daily_revenue": 90694.52,
+      "rolling_7d_roas": 6.1852
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-02-01",
+      "daily_spend": 3205.59,
+      "daily_revenue": 11351.95,
+      "rolling_7d_roas": 6.0165
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-02-03",
+      "daily_spend": 5319.27,
+      "daily_revenue": 35702.37,
+      "rolling_7d_roas": 7.4912
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-02-04",
+      "daily_spend": 4758.77,
+      "daily_revenue": 58373.12,
+      "rolling_7d_roas": 7.3283
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-02-05",
+      "daily_spend": 6037.2,
+      "daily_revenue": 30713.7,
+      "rolling_7d_roas": 6.9781
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-02-06",
+      "daily_spend": 7584.24,
+      "daily_revenue": 32522.88,
+      "rolling_7d_roas": 7.0475
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-02-07",
+      "daily_spend": 8114.05,
+      "daily_revenue": 32937.13,
+      "rolling_7d_roas": 5.7569
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-02-08",
+      "daily_spend": 5178.84,
+      "daily_revenue": 4076.45,
+      "rolling_7d_roas": 5.2531
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-02-09",
+      "daily_spend": 2794.56,
+      "daily_revenue": 12671.79,
+      "rolling_7d_roas": 5.2026
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-02-10",
+      "daily_spend": 5000.1,
+      "daily_revenue": 26737.15,
+      "rolling_7d_roas": 5.0176
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-02-11",
+      "daily_spend": 3601.86,
+      "daily_revenue": 6838.55,
+      "rolling_7d_roas": 3.8239
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-02-13",
+      "daily_spend": 1601.1,
+      "daily_revenue": 5383.27,
+      "rolling_7d_roas": 3.3717
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-02-14",
+      "daily_spend": 2065.45,
+      "daily_revenue": 1798.59,
+      "rolling_7d_roas": 2.8409
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-02-15",
+      "daily_spend": 2727.01,
+      "daily_revenue": 20596.75,
+      "rolling_7d_roas": 4.1611
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-02-16",
+      "daily_spend": 29984.4,
+      "daily_revenue": 125949.31,
+      "rolling_7d_roas": 4.1642
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-02-17",
+      "daily_spend": 21405.23,
+      "daily_revenue": 57687.78,
+      "rolling_7d_roas": 3.5555
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-02-18",
+      "daily_spend": 22475.43,
+      "daily_revenue": 126463.84,
+      "rolling_7d_roas": 4.2099
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-02-20",
+      "daily_spend": 11129.5,
+      "daily_revenue": 39484.18,
+      "rolling_7d_roas": 4.1429
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-02-22",
+      "daily_spend": 4023.99,
+      "daily_revenue": 34345.9,
+      "rolling_7d_roas": 4.3129
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-02-23",
+      "daily_spend": 10439.54,
+      "daily_revenue": 7261.59,
+      "rolling_7d_roas": 3.8179
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-02-24",
+      "daily_spend": 2720.61,
+      "daily_revenue": 49256.62,
+      "rolling_7d_roas": 5.0564
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-02-25",
+      "daily_spend": 3490.34,
+      "daily_revenue": 28288.04,
+      "rolling_7d_roas": 4.9879
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-02-26",
+      "daily_spend": 5302.76,
+      "daily_revenue": 27759.15,
+      "rolling_7d_roas": 5.0232
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-02-28",
+      "daily_spend": 8056.05,
+      "daily_revenue": 69116.6,
+      "rolling_7d_roas": 6.3475
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-02-29",
+      "daily_spend": 10826.2,
+      "daily_revenue": 75615.66,
+      "rolling_7d_roas": 6.3008
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-01",
+      "daily_spend": 5437.15,
+      "daily_revenue": 26004.98,
+      "rolling_7d_roas": 7.7035
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-03",
+      "daily_spend": 6256.17,
+      "daily_revenue": 19491.42,
+      "rolling_7d_roas": 6.0758
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-04",
+      "daily_spend": 5997.62,
+      "daily_revenue": 14510.45,
+      "rolling_7d_roas": 5.5981
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-05",
+      "daily_spend": 5992.7,
+      "daily_revenue": 25434.22,
+      "rolling_7d_roas": 5.4075
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-06",
+      "daily_spend": 10076.7,
+      "daily_revenue": 109027.3,
+      "rolling_7d_roas": 6.0575
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-07",
+      "daily_spend": 3092.05,
+      "daily_revenue": 29980.85,
+      "rolling_7d_roas": 6.0905
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-08",
+      "daily_spend": 1553.14,
+      "daily_revenue": 10968.52,
+      "rolling_7d_roas": 6.3519
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-09",
+      "daily_spend": 2350.73,
+      "daily_revenue": 21189.97,
+      "rolling_7d_roas": 6.5291
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-10",
+      "daily_spend": 12460.97,
+      "daily_revenue": 95977.79,
+      "rolling_7d_roas": 7.3955
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-11",
+      "daily_spend": 1875.72,
+      "daily_revenue": 5936.35,
+      "rolling_7d_roas": 7.9813
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-12",
+      "daily_spend": 3238.56,
+      "daily_revenue": 10558.75,
+      "rolling_7d_roas": 8.1863
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-13",
+      "daily_spend": 9084.26,
+      "daily_revenue": 82302.57,
+      "rolling_7d_roas": 7.6337
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-15",
+      "daily_spend": 7714.99,
+      "daily_revenue": 67182.64,
+      "rolling_7d_roas": 7.7099
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-16",
+      "daily_spend": 4646.61,
+      "daily_revenue": 19971.62,
+      "rolling_7d_roas": 7.2251
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-17",
+      "daily_spend": 10727.17,
+      "daily_revenue": 37075.48,
+      "rolling_7d_roas": 5.9813
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-19",
+      "daily_spend": 1578.55,
+      "daily_revenue": 17697.95,
+      "rolling_7d_roas": 6.6435
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-20",
+      "daily_spend": 1489.62,
+      "daily_revenue": 4621.46,
+      "rolling_7d_roas": 5.6027
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-21",
+      "daily_spend": 9694.97,
+      "daily_revenue": 134571.72,
+      "rolling_7d_roas": 7.8412
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-22",
+      "daily_spend": 5314.6,
+      "daily_revenue": 53819.49,
+      "rolling_7d_roas": 8.0044
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-23",
+      "daily_spend": 3134.64,
+      "daily_revenue": 10928.01,
+      "rolling_7d_roas": 8.1001
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-26",
+      "daily_spend": 1168.4,
+      "daily_revenue": 4203.19,
+      "rolling_7d_roas": 10.0058
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-27",
+      "daily_spend": 13634.06,
+      "daily_revenue": 48997.86,
+      "rolling_7d_roas": 7.6645
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-28",
+      "daily_spend": 6838.73,
+      "daily_revenue": 25371.51,
+      "rolling_7d_roas": 4.763
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-29",
+      "daily_spend": 4496.48,
+      "daily_revenue": 6109.21,
+      "rolling_7d_roas": 3.2662
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-30",
+      "daily_spend": 160.19,
+      "daily_revenue": 912.82,
+      "rolling_7d_roas": 3.2548
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-03-31",
+      "daily_spend": 3417.54,
+      "daily_revenue": 3173.67,
+      "rolling_7d_roas": 2.9873
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-01",
+      "daily_spend": 10346.08,
+      "daily_revenue": 82612.29,
+      "rolling_7d_roas": 4.2779
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-02",
+      "daily_spend": 717.12,
+      "daily_revenue": 4449.98,
+      "rolling_7d_roas": 4.3329
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-03",
+      "daily_spend": 7869.71,
+      "daily_revenue": 16213.93,
+      "rolling_7d_roas": 4.1022
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-04",
+      "daily_spend": 8384.36,
+      "daily_revenue": 92245.43,
+      "rolling_7d_roas": 5.8126
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-05",
+      "daily_spend": 8674.05,
+      "daily_revenue": 49056.09,
+      "rolling_7d_roas": 6.2843
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-06",
+      "daily_spend": 1118.88,
+      "daily_revenue": 5774.95,
+      "rolling_7d_roas": 6.2556
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-07",
+      "daily_spend": 448.88,
+      "daily_revenue": 1397.37,
+      "rolling_7d_roas": 6.7028
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-09",
+      "daily_spend": 2179.94,
+      "daily_revenue": 14410.72,
+      "rolling_7d_roas": 6.2456
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-10",
+      "daily_spend": 1935.39,
+      "daily_revenue": 14190.16,
+      "rolling_7d_roas": 7.7864
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-11",
+      "daily_spend": 138.6,
+      "daily_revenue": 490.6,
+      "rolling_7d_roas": 5.8859
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-12",
+      "daily_spend": 5821.98,
+      "daily_revenue": 46886.29,
+      "rolling_7d_roas": 7.1412
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-13",
+      "daily_spend": 4687.0,
+      "daily_revenue": 18027.88,
+      "rolling_7d_roas": 6.2716
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-14",
+      "daily_spend": 8894.9,
+      "daily_revenue": 62082.03,
+      "rolling_7d_roas": 6.5977
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-15",
+      "daily_spend": 2298.6,
+      "daily_revenue": 9058.25,
+      "rolling_7d_roas": 6.3624
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-16",
+      "daily_spend": 12338.9,
+      "daily_revenue": 67868.52,
+      "rolling_7d_roas": 6.0529
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-17",
+      "daily_spend": 1465.96,
+      "daily_revenue": 22820.64,
+      "rolling_7d_roas": 6.3748
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-18",
+      "daily_spend": 7737.73,
+      "daily_revenue": 21675.96,
+      "rolling_7d_roas": 5.7445
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-19",
+      "daily_spend": 4946.16,
+      "daily_revenue": 37976.42,
+      "rolling_7d_roas": 5.6529
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-20",
+      "daily_spend": 279.0,
+      "daily_revenue": 1347.41,
+      "rolling_7d_roas": 5.8699
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-21",
+      "daily_spend": 925.4,
+      "daily_revenue": 2104.08,
+      "rolling_7d_roas": 5.4299
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-22",
+      "daily_spend": 4904.64,
+      "daily_revenue": 23127.27,
+      "rolling_7d_roas": 5.4274
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-24",
+      "daily_spend": 13678.54,
+      "daily_revenue": 49565.1,
+      "rolling_7d_roas": 4.182
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-25",
+      "daily_spend": 4336.64,
+      "daily_revenue": 26795.52,
+      "rolling_7d_roas": 4.8474
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-26",
+      "daily_spend": 5617.67,
+      "daily_revenue": 10509.2,
+      "rolling_7d_roas": 3.8144
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-27",
+      "daily_spend": 4284.15,
+      "daily_revenue": 32625.95,
+      "rolling_7d_roas": 4.2886
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-28",
+      "daily_spend": 4520.63,
+      "daily_revenue": 27532.48,
+      "rolling_7d_roas": 4.5566
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-04-29",
+      "daily_spend": 6109.23,
+      "daily_revenue": 54583.07,
+      "rolling_7d_roas": 5.2303
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-01",
+      "daily_spend": 1197.64,
+      "daily_revenue": 3134.45,
+      "rolling_7d_roas": 5.9534
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-02",
+      "daily_spend": 8012.62,
+      "daily_revenue": 41291.5,
+      "rolling_7d_roas": 5.705
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-03",
+      "daily_spend": 9695.97,
+      "daily_revenue": 44832.52,
+      "rolling_7d_roas": 6.0319
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-05",
+      "daily_spend": 9434.02,
+      "daily_revenue": 52998.01,
+      "rolling_7d_roas": 5.7139
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-06",
+      "daily_spend": 13178.43,
+      "daily_revenue": 57806.71,
+      "rolling_7d_roas": 4.8186
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-07",
+      "daily_spend": 2925.08,
+      "daily_revenue": 14259.64,
+      "rolling_7d_roas": 4.8223
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-08",
+      "daily_spend": 3629.5,
+      "daily_revenue": 14018.44,
+      "rolling_7d_roas": 4.8043
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-09",
+      "daily_spend": 7008.64,
+      "daily_revenue": 17960.45,
+      "rolling_7d_roas": 4.4009
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-10",
+      "daily_spend": 1890.81,
+      "daily_revenue": 4626.55,
+      "rolling_7d_roas": 4.247
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-11",
+      "daily_spend": 20719.5,
+      "daily_revenue": 41571.41,
+      "rolling_7d_roas": 3.4573
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-12",
+      "daily_spend": 4318.51,
+      "daily_revenue": 41760.07,
+      "rolling_7d_roas": 3.5774
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-13",
+      "daily_spend": 2680.96,
+      "daily_revenue": 26103.86,
+      "rolling_7d_roas": 3.713
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-15",
+      "daily_spend": 4764.6,
+      "daily_revenue": 25887.42,
+      "rolling_7d_roas": 3.8158
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-16",
+      "daily_spend": 1187.76,
+      "daily_revenue": 5627.66,
+      "rolling_7d_roas": 4.0936
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-17",
+      "daily_spend": 5421.57,
+      "daily_revenue": 10510.94,
+      "rolling_7d_roas": 3.8744
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-18",
+      "daily_spend": 1346.72,
+      "daily_revenue": 3176.67,
+      "rolling_7d_roas": 5.7336
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-20",
+      "daily_spend": 7933.24,
+      "daily_revenue": 38713.64,
+      "rolling_7d_roas": 4.063
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-21",
+      "daily_spend": 9035.42,
+      "daily_revenue": 70115.43,
+      "rolling_7d_roas": 5.1881
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-22",
+      "daily_spend": 17915.61,
+      "daily_revenue": 43473.21,
+      "rolling_7d_roas": 4.006
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-23",
+      "daily_spend": 2008.11,
+      "daily_revenue": 13206.63,
+      "rolling_7d_roas": 4.1043
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-24",
+      "daily_spend": 11947.22,
+      "daily_revenue": 127330.0,
+      "rolling_7d_roas": 5.8983
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-25",
+      "daily_spend": 3848.88,
+      "daily_revenue": 4653.12,
+      "rolling_7d_roas": 5.6462
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-26",
+      "daily_spend": 1218.66,
+      "daily_revenue": 42434.18,
+      "rolling_7d_roas": 6.3058
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-28",
+      "daily_spend": 1700.56,
+      "daily_revenue": 8807.49,
+      "rolling_7d_roas": 6.2089
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-05-31",
+      "daily_spend": 3096.6,
+      "daily_revenue": 38447.59,
+      "rolling_7d_roas": 9.5636
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-02",
+      "daily_spend": 3073.69,
+      "daily_revenue": 13824.81,
+      "rolling_7d_roas": 7.7603
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-03",
+      "daily_spend": 11088.12,
+      "daily_revenue": 52760.4,
+      "rolling_7d_roas": 6.0046
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-04",
+      "daily_spend": 1659.57,
+      "daily_revenue": 6901.84,
+      "rolling_7d_roas": 5.9168
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-05",
+      "daily_spend": 10565.0,
+      "daily_revenue": 67256.79,
+      "rolling_7d_roas": 6.0778
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-06",
+      "daily_spend": 8280.64,
+      "daily_revenue": 27739.42,
+      "rolling_7d_roas": 5.4796
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-07",
+      "daily_spend": 16284.46,
+      "daily_revenue": 44980.2,
+      "rolling_7d_roas": 4.1895
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-08",
+      "daily_spend": 20375.01,
+      "daily_revenue": 44926.59,
+      "rolling_7d_roas": 3.6226
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-09",
+      "daily_spend": 3003.68,
+      "daily_revenue": 50571.95,
+      "rolling_7d_roas": 4.1419
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-11",
+      "daily_spend": 1789.66,
+      "daily_revenue": 14587.14,
+      "rolling_7d_roas": 4.1471
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-13",
+      "daily_spend": 2392.48,
+      "daily_revenue": 3680.82,
+      "rolling_7d_roas": 3.6206
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-14",
+      "daily_spend": 6549.12,
+      "daily_revenue": 23552.19,
+      "rolling_7d_roas": 4.0258
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-15",
+      "daily_spend": 2051.46,
+      "daily_revenue": 27550.99,
+      "rolling_7d_roas": 7.5979
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-16",
+      "daily_spend": 5762.69,
+      "daily_revenue": 21909.38,
+      "rolling_7d_roas": 4.922
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-17",
+      "daily_spend": 7162.69,
+      "daily_revenue": 35161.12,
+      "rolling_7d_roas": 4.9184
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-18",
+      "daily_spend": 2851.52,
+      "daily_revenue": 23640.39,
+      "rolling_7d_roas": 5.0615
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-19",
+      "daily_spend": 34527.23,
+      "daily_revenue": 181532.04,
+      "rolling_7d_roas": 5.172
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-20",
+      "daily_spend": 9172.74,
+      "daily_revenue": 88046.16,
+      "rolling_7d_roas": 5.8961
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-21",
+      "daily_spend": 9659.94,
+      "daily_revenue": 64143.72,
+      "rolling_7d_roas": 6.2087
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-22",
+      "daily_spend": 3016.44,
+      "daily_revenue": 34349.23,
+      "rolling_7d_roas": 6.2198
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-23",
+      "daily_spend": 11275.85,
+      "daily_revenue": 141954.82,
+      "rolling_7d_roas": 7.324
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-24",
+      "daily_spend": 4500.43,
+      "daily_revenue": 7660.22,
+      "rolling_7d_roas": 7.2173
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-26",
+      "daily_spend": 3645.1,
+      "daily_revenue": 57600.42,
+      "rolling_7d_roas": 9.5408
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-27",
+      "daily_spend": 16254.87,
+      "daily_revenue": 66246.62,
+      "rolling_7d_roas": 7.6926
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-28",
+      "daily_spend": 10669.2,
+      "daily_revenue": 33036.12,
+      "rolling_7d_roas": 6.9051
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-29",
+      "daily_spend": 4293.9,
+      "daily_revenue": 38717.46,
+      "rolling_7d_roas": 6.8171
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-06-30",
+      "daily_spend": 1482.0,
+      "daily_revenue": 19372.57,
+      "rolling_7d_roas": 5.4506
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-07-04",
+      "daily_spend": 6287.26,
+      "daily_revenue": 47054.62,
+      "rolling_7d_roas": 6.0786
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-07-05",
+      "daily_spend": 1448.59,
+      "daily_revenue": 4720.08,
+      "rolling_7d_roas": 8.1311
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-07-06",
+      "daily_spend": 9761.42,
+      "daily_revenue": 29593.98,
+      "rolling_7d_roas": 5.308
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-07-07",
+      "daily_spend": 7153.31,
+      "daily_revenue": 77507.23,
+      "rolling_7d_roas": 6.4451
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-07-08",
+      "daily_spend": 2118.17,
+      "daily_revenue": 1650.28,
+      "rolling_7d_roas": 5.9968
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-07-09",
+      "daily_spend": 1577.62,
+      "daily_revenue": 4290.5,
+      "rolling_7d_roas": 5.8144
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-07-10",
+      "daily_spend": 5678.2,
+      "daily_revenue": 41736.54,
+      "rolling_7d_roas": 6.0707
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-07-11",
+      "daily_spend": 9658.46,
+      "daily_revenue": 37639.33,
+      "rolling_7d_roas": 5.2717
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-07-12",
+      "daily_spend": 344.4,
+      "daily_revenue": 4734.22,
+      "rolling_7d_roas": 5.4324
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-07-13",
+      "daily_spend": 4386.72,
+      "daily_revenue": 12104.44,
+      "rolling_7d_roas": 5.8111
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-07-14",
+      "daily_spend": 20070.61,
+      "daily_revenue": 119021.09,
+      "rolling_7d_roas": 5.0458
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-07-16",
+      "daily_spend": 7917.91,
+      "daily_revenue": 15194.15,
+      "rolling_7d_roas": 4.795
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-07-17",
+      "daily_spend": 8238.75,
+      "daily_revenue": 14211.23,
+      "rolling_7d_roas": 4.0086
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-07-18",
+      "daily_spend": 201.52,
+      "daily_revenue": 7330.28,
+      "rolling_7d_roas": 4.1933
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-07-19",
+      "daily_spend": 14957.96,
+      "daily_revenue": 103965.28,
+      "rolling_7d_roas": 4.8738
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-07-22",
+      "daily_spend": 1690.65,
+      "daily_revenue": 4808.56,
+      "rolling_7d_roas": 4.4085
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-07-24",
+      "daily_spend": 183.6,
+      "daily_revenue": 4976.05,
+      "rolling_7d_roas": 7.1083
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-07-25",
+      "daily_spend": 17794.91,
+      "daily_revenue": 98756.55,
+      "rolling_7d_roas": 6.137
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-07-26",
+      "daily_spend": 369.05,
+      "daily_revenue": 5311.42,
+      "rolling_7d_roas": 5.6818
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-07-27",
+      "daily_spend": 2772.42,
+      "daily_revenue": 5846.83,
+      "rolling_7d_roas": 5.2475
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-07-28",
+      "daily_spend": 7647.52,
+      "daily_revenue": 53044.57,
+      "rolling_7d_roas": 5.6715
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-07-29",
+      "daily_spend": 888.93,
+      "daily_revenue": 1738.76,
+      "rolling_7d_roas": 5.7213
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-07-31",
+      "daily_spend": 16260.24,
+      "daily_revenue": 66792.22,
+      "rolling_7d_roas": 5.0618
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-01",
+      "daily_spend": 8749.4,
+      "daily_revenue": 48341.14,
+      "rolling_7d_roas": 4.9356
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-02",
+      "daily_spend": 3888.43,
+      "daily_revenue": 71554.77,
+      "rolling_7d_roas": 6.1511
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-03",
+      "daily_spend": 1640.13,
+      "daily_revenue": 2761.12,
+      "rolling_7d_roas": 6.2504
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-04",
+      "daily_spend": 6832.55,
+      "daily_revenue": 46253.22,
+      "rolling_7d_roas": 6.206
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-05",
+      "daily_spend": 1622.85,
+      "daily_revenue": 7800.92,
+      "rolling_7d_roas": 6.2447
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-06",
+      "daily_spend": 7409.2,
+      "daily_revenue": 30232.15,
+      "rolling_7d_roas": 5.8991
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-07",
+      "daily_spend": 1396.21,
+      "daily_revenue": 50567.51,
+      "rolling_7d_roas": 8.1649
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-08",
+      "daily_spend": 6433.38,
+      "daily_revenue": 54000.62,
+      "rolling_7d_roas": 9.0057
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-09",
+      "daily_spend": 616.0,
+      "daily_revenue": 2381.36,
+      "rolling_7d_roas": 7.4757
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-10",
+      "daily_spend": 2093.44,
+      "daily_revenue": 14883.66,
+      "rolling_7d_roas": 7.8065
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-11",
+      "daily_spend": 9336.75,
+      "daily_revenue": 66397.18,
+      "rolling_7d_roas": 7.8271
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-12",
+      "daily_spend": 891.52,
+      "daily_revenue": 1955.09,
+      "rolling_7d_roas": 7.8227
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-13",
+      "daily_spend": 17535.13,
+      "daily_revenue": 47037.14,
+      "rolling_7d_roas": 6.1934
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-14",
+      "daily_spend": 13185.97,
+      "daily_revenue": 73097.91,
+      "rolling_7d_roas": 5.1855
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-15",
+      "daily_spend": 2334.36,
+      "daily_revenue": 13381.03,
+      "rolling_7d_roas": 4.7645
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-16",
+      "daily_spend": 8555.71,
+      "daily_revenue": 73799.27,
+      "rolling_7d_roas": 5.3873
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-17",
+      "daily_spend": 19626.8,
+      "daily_revenue": 40334.52,
+      "rolling_7d_roas": 4.4217
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-18",
+      "daily_spend": 3351.28,
+      "daily_revenue": 9120.23,
+      "rolling_7d_roas": 3.9512
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-19",
+      "daily_spend": 4470.24,
+      "daily_revenue": 17040.78,
+      "rolling_7d_roas": 3.9649
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-21",
+      "daily_spend": 14636.18,
+      "daily_revenue": 64698.97,
+      "rolling_7d_roas": 4.1223
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-22",
+      "daily_spend": 496.8,
+      "daily_revenue": 5163.27,
+      "rolling_7d_roas": 4.1097
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-23",
+      "daily_spend": 5225.83,
+      "daily_revenue": 5739.99,
+      "rolling_7d_roas": 2.9723
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-24",
+      "daily_spend": 7164.96,
+      "daily_revenue": 45906.84,
+      "rolling_7d_roas": 4.1779
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-27",
+      "daily_spend": 3511.15,
+      "daily_revenue": 57467.07,
+      "rolling_7d_roas": 5.7669
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-28",
+      "daily_spend": 10574.88,
+      "daily_revenue": 40120.02,
+      "rolling_7d_roas": 5.724
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-30",
+      "daily_spend": 9238.88,
+      "daily_revenue": 46549.43,
+      "rolling_7d_roas": 6.233
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-08-31",
+      "daily_spend": 18391.29,
+      "daily_revenue": 107766.52,
+      "rolling_7d_roas": 6.0385
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-01",
+      "daily_spend": 7155.93,
+      "daily_revenue": 37592.08,
+      "rolling_7d_roas": 5.9235
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-02",
+      "daily_spend": 11728.7,
+      "daily_revenue": 63660.92,
+      "rolling_7d_roas": 5.8276
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-03",
+      "daily_spend": 3445.18,
+      "daily_revenue": 23537.4,
+      "rolling_7d_roas": 5.2734
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-04",
+      "daily_spend": 2527.76,
+      "daily_revenue": 6302.51,
+      "rolling_7d_roas": 5.4376
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-05",
+      "daily_spend": 13279.27,
+      "daily_revenue": 36177.68,
+      "rolling_7d_roas": 4.8898
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-06",
+      "daily_spend": 7920.04,
+      "daily_revenue": 10447.57,
+      "rolling_7d_roas": 4.4297
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-07",
+      "daily_spend": 4583.04,
+      "daily_revenue": 25385.35,
+      "rolling_7d_roas": 4.0107
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-08",
+      "daily_spend": 4059.7,
+      "daily_revenue": 9096.43,
+      "rolling_7d_roas": 3.6726
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-10",
+      "daily_spend": 8566.64,
+      "daily_revenue": 34518.56,
+      "rolling_7d_roas": 2.9785
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-11",
+      "daily_spend": 13501.27,
+      "daily_revenue": 38312.84,
+      "rolling_7d_roas": 2.9655
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-12",
+      "daily_spend": 3457.44,
+      "daily_revenue": 11150.38,
+      "rolling_7d_roas": 3.0629
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-13",
+      "daily_spend": 19317.64,
+      "daily_revenue": 146448.05,
+      "rolling_7d_roas": 4.9529
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-14",
+      "daily_spend": 13049.4,
+      "daily_revenue": 13261.37,
+      "rolling_7d_roas": 4.0804
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-15",
+      "daily_spend": 6343.09,
+      "daily_revenue": 139899.72,
+      "rolling_7d_roas": 5.9716
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-16",
+      "daily_spend": 186.14,
+      "daily_revenue": 1653.16,
+      "rolling_7d_roas": 5.98
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-17",
+      "daily_spend": 2907.38,
+      "daily_revenue": 12901.41,
+      "rolling_7d_roas": 6.1881
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-19",
+      "daily_spend": 392.63,
+      "daily_revenue": 1500.74,
+      "rolling_7d_roas": 7.4809
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-20",
+      "daily_spend": 4515.88,
+      "daily_revenue": 17225.95,
+      "rolling_7d_roas": 6.8058
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-21",
+      "daily_spend": 2669.23,
+      "daily_revenue": 21230.47,
+      "rolling_7d_roas": 11.4263
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-22",
+      "daily_spend": 6193.35,
+      "daily_revenue": 10652.24,
+      "rolling_7d_roas": 3.8639
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-23",
+      "daily_spend": 1381.34,
+      "daily_revenue": 9256.03,
+      "rolling_7d_roas": 4.0292
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-24",
+      "daily_spend": 8223.18,
+      "daily_revenue": 60107.42,
+      "rolling_7d_roas": 5.1324
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-25",
+      "daily_spend": 12379.34,
+      "daily_revenue": 37848.9,
+      "rolling_7d_roas": 4.414
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-26",
+      "daily_spend": 11085.08,
+      "daily_revenue": 19714.52,
+      "rolling_7d_roas": 3.79
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-27",
+      "daily_spend": 7387.51,
+      "daily_revenue": 32345.09,
+      "rolling_7d_roas": 3.8759
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-28",
+      "daily_spend": 9081.47,
+      "daily_revenue": 25153.54,
+      "rolling_7d_roas": 3.5003
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-09-29",
+      "daily_spend": 2539.52,
+      "daily_revenue": 12521.54,
+      "rolling_7d_roas": 3.7818
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-10-02",
+      "daily_spend": 974.16,
+      "daily_revenue": 30360.22,
+      "rolling_7d_roas": 3.8656
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-10-03",
+      "daily_spend": 4493.84,
+      "daily_revenue": 89187.58,
+      "rolling_7d_roas": 7.7449
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-10-04",
+      "daily_spend": 2650.66,
+      "daily_revenue": 32914.41,
+      "rolling_7d_roas": 9.6323
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-10-08",
+      "daily_spend": 18541.61,
+      "daily_revenue": 125584.04,
+      "rolling_7d_roas": 10.4292
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-10-09",
+      "daily_spend": 2267.83,
+      "daily_revenue": 6875.3,
+      "rolling_7d_roas": 9.1065
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-10-10",
+      "daily_spend": 4142.45,
+      "daily_revenue": 8973.49,
+      "rolling_7d_roas": 6.3163
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-10-11",
+      "daily_spend": 8240.21,
+      "daily_revenue": 16311.58,
+      "rolling_7d_roas": 4.7525
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-10-12",
+      "daily_spend": 11006.87,
+      "daily_revenue": 140793.96,
+      "rolling_7d_roas": 6.7544
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-10-13",
+      "daily_spend": 7665.0,
+      "daily_revenue": 21165.97,
+      "rolling_7d_roas": 6.1643
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-10-14",
+      "daily_spend": 3151.02,
+      "daily_revenue": 38640.12,
+      "rolling_7d_roas": 6.5136
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-10-15",
+      "daily_spend": 16914.89,
+      "daily_revenue": 54900.99,
+      "rolling_7d_roas": 5.3881
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-10-17",
+      "daily_spend": 3328.38,
+      "daily_revenue": 3790.94,
+      "rolling_7d_roas": 5.4785
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-10-18",
+      "daily_spend": 13257.0,
+      "daily_revenue": 74056.75,
+      "rolling_7d_roas": 6.0255
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-10-19",
+      "daily_spend": 2279.0,
+      "daily_revenue": 10356.84,
+      "rolling_7d_roas": 4.3548
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-10-20",
+      "daily_spend": 441.0,
+      "daily_revenue": 6354.23,
+      "rolling_7d_roas": 4.7776
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-10-22",
+      "daily_spend": 14844.06,
+      "daily_revenue": 86871.54,
+      "rolling_7d_roas": 5.3128
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-10-23",
+      "daily_spend": 2458.96,
+      "daily_revenue": 6683.24,
+      "rolling_7d_roas": 5.1385
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-10-24",
+      "daily_spend": 10293.24,
+      "daily_revenue": 52725.19,
+      "rolling_7d_roas": 5.4402
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-10-25",
+      "daily_spend": 19840.57,
+      "daily_revenue": 113430.41,
+      "rolling_7d_roas": 5.5111
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-10-26",
+      "daily_spend": 2008.36,
+      "daily_revenue": 8002.44,
+      "rolling_7d_roas": 5.4938
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-10-27",
+      "daily_spend": 9760.59,
+      "daily_revenue": 66707.59,
+      "rolling_7d_roas": 5.6484
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-10-29",
+      "daily_spend": 5613.44,
+      "daily_revenue": 6472.17,
+      "rolling_7d_roas": 5.0829
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-10-30",
+      "daily_spend": 2434.41,
+      "daily_revenue": 44145.0,
+      "rolling_7d_roas": 5.8354
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-10-31",
+      "daily_spend": 4592.17,
+      "daily_revenue": 4347.77,
+      "rolling_7d_roas": 5.494
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-02",
+      "daily_spend": 10005.81,
+      "daily_revenue": 94768.17,
+      "rolling_7d_roas": 6.6789
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-03",
+      "daily_spend": 4330.08,
+      "daily_revenue": 6787.92,
+      "rolling_7d_roas": 5.8023
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-04",
+      "daily_spend": 9548.0,
+      "daily_revenue": 43094.26,
+      "rolling_7d_roas": 5.4653
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-05",
+      "daily_spend": 13210.74,
+      "daily_revenue": 32458.79,
+      "rolling_7d_roas": 5.1132
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-06",
+      "daily_spend": 8628.81,
+      "daily_revenue": 10578.46,
+      "rolling_7d_roas": 3.8166
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-07",
+      "daily_spend": 3412.2,
+      "daily_revenue": 23820.26,
+      "rolling_7d_roas": 4.3046
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-08",
+      "daily_spend": 10848.31,
+      "daily_revenue": 124991.18,
+      "rolling_7d_roas": 5.6098
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-09",
+      "daily_spend": 3188.89,
+      "daily_revenue": 51360.79,
+      "rolling_7d_roas": 5.5127
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-10",
+      "daily_spend": 398.72,
+      "daily_revenue": 3556.66,
+      "rolling_7d_roas": 5.8872
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-11",
+      "daily_spend": 1724.76,
+      "daily_revenue": 25379.08,
+      "rolling_7d_roas": 6.5716
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-12",
+      "daily_spend": 5858.26,
+      "daily_revenue": 28714.01,
+      "rolling_7d_roas": 7.8802
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-13",
+      "daily_spend": 1558.19,
+      "daily_revenue": 52473.54,
+      "rolling_7d_roas": 11.497
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-14",
+      "daily_spend": 8852.71,
+      "daily_revenue": 26101.17,
+      "rolling_7d_roas": 9.6385
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-15",
+      "daily_spend": 5567.84,
+      "daily_revenue": 24540.41,
+      "rolling_7d_roas": 7.8133
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-16",
+      "daily_spend": 20882.95,
+      "daily_revenue": 59107.57,
+      "rolling_7d_roas": 4.9031
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-17",
+      "daily_spend": 2519.22,
+      "daily_revenue": 48466.72,
+      "rolling_7d_roas": 5.638
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-19",
+      "daily_spend": 768.18,
+      "daily_revenue": 560.03,
+      "rolling_7d_roas": 5.2616
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-20",
+      "daily_spend": 13239.25,
+      "daily_revenue": 69106.2,
+      "rolling_7d_roas": 4.3967
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-21",
+      "daily_spend": 2329.51,
+      "daily_revenue": 11281.65,
+      "rolling_7d_roas": 4.7026
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-22",
+      "daily_spend": 1080.32,
+      "daily_revenue": 2663.68,
+      "rolling_7d_roas": 4.6837
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-24",
+      "daily_spend": 7820.83,
+      "daily_revenue": 24280.35,
+      "rolling_7d_roas": 4.275
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-25",
+      "daily_spend": 523.25,
+      "daily_revenue": 1746.46,
+      "rolling_7d_roas": 4.2559
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-26",
+      "daily_spend": 10327.61,
+      "daily_revenue": 84413.44,
+      "rolling_7d_roas": 5.4781
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-28",
+      "daily_spend": 11931.96,
+      "daily_revenue": 50617.39,
+      "rolling_7d_roas": 5.1673
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-11-29",
+      "daily_spend": 25485.05,
+      "daily_revenue": 104002.85,
+      "rolling_7d_roas": 4.7257
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-01",
+      "daily_spend": 190.08,
+      "daily_revenue": 2562.91,
+      "rolling_7d_roas": 5.0217
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-02",
+      "daily_spend": 6681.38,
+      "daily_revenue": 76075.73,
+      "rolling_7d_roas": 5.8165
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-04",
+      "daily_spend": 14880.18,
+      "daily_revenue": 77253.19,
+      "rolling_7d_roas": 5.2479
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-05",
+      "daily_spend": 2962.44,
+      "daily_revenue": 58627.34,
+      "rolling_7d_roas": 6.3452
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-06",
+      "daily_spend": 490.73,
+      "daily_revenue": 5611.42,
+      "rolling_7d_roas": 8.7337
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-07",
+      "daily_spend": 10201.07,
+      "daily_revenue": 14846.02,
+      "rolling_7d_roas": 6.6367
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-08",
+      "daily_spend": 5458.73,
+      "daily_revenue": 39169.33,
+      "rolling_7d_roas": 6.677
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-09",
+      "daily_spend": 7750.83,
+      "daily_revenue": 18090.29,
+      "rolling_7d_roas": 5.1168
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-10",
+      "daily_spend": 3638.84,
+      "daily_revenue": 28606.15,
+      "rolling_7d_roas": 5.3369
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-11",
+      "daily_spend": 11433.71,
+      "daily_revenue": 39470.02,
+      "rolling_7d_roas": 4.8745
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-12",
+      "daily_spend": 351.48,
+      "daily_revenue": 4981.94,
+      "rolling_7d_roas": 3.834
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-13",
+      "daily_spend": 15701.16,
+      "daily_revenue": 63894.6,
+      "rolling_7d_roas": 3.8334
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-14",
+      "daily_spend": 5648.7,
+      "daily_revenue": 42963.29,
+      "rolling_7d_roas": 4.7451
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-15",
+      "daily_spend": 6006.8,
+      "daily_revenue": 49032.94,
+      "rolling_7d_roas": 4.8888
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-16",
+      "daily_spend": 8742.53,
+      "daily_revenue": 79989.36,
+      "rolling_7d_roas": 5.9961
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-17",
+      "daily_spend": 535.68,
+      "daily_revenue": 16688.84,
+      "rolling_7d_roas": 6.1343
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-18",
+      "daily_spend": 3342.3,
+      "daily_revenue": 29602.7,
+      "rolling_7d_roas": 7.1203
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-20",
+      "daily_spend": 11656.78,
+      "daily_revenue": 46260.12,
+      "rolling_7d_roas": 7.362
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-22",
+      "daily_spend": 7996.03,
+      "daily_revenue": 31790.0,
+      "rolling_7d_roas": 6.3313
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-23",
+      "daily_spend": 3271.13,
+      "daily_revenue": 87569.74,
+      "rolling_7d_roas": 7.9066
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-24",
+      "daily_spend": 7493.16,
+      "daily_revenue": 99866.99,
+      "rolling_7d_roas": 8.741
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-25",
+      "daily_spend": 12189.08,
+      "daily_revenue": 38518.72,
+      "rolling_7d_roas": 7.1352
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-26",
+      "daily_spend": 7617.45,
+      "daily_revenue": 20243.66,
+      "rolling_7d_roas": 6.4561
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-29",
+      "daily_spend": 2095.94,
+      "daily_revenue": 16951.26,
+      "rolling_7d_roas": 8.0556
+    },
+    {
+      "platform": "Meta Ads",
+      "event_date": "2024-12-30",
+      "daily_spend": 8600.54,
+      "daily_revenue": 62623.77,
+      "rolling_7d_roas": 6.2692
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-01-01",
+      "daily_spend": 12964.38,
+      "daily_revenue": 46631.0,
+      "rolling_7d_roas": 3.5969
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-01-02",
+      "daily_spend": 7834.2,
+      "daily_revenue": 50505.07,
+      "rolling_7d_roas": 4.6703
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-01-03",
+      "daily_spend": 5360.42,
+      "daily_revenue": 57608.77,
+      "rolling_7d_roas": 5.9155
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-01-05",
+      "daily_spend": 2476.22,
+      "daily_revenue": 10016.46,
+      "rolling_7d_roas": 5.7538
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-01-07",
+      "daily_spend": 20505.0,
+      "daily_revenue": 43676.76,
+      "rolling_7d_roas": 4.2417
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-01-08",
+      "daily_spend": 7782.72,
+      "daily_revenue": 86383.64,
+      "rolling_7d_roas": 5.646
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-01-09",
+      "daily_spend": 8838.4,
+      "daily_revenue": 8632.99,
+      "rolling_7d_roas": 4.5887
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-01-11",
+      "daily_spend": 12761.48,
+      "daily_revenue": 56410.78,
+      "rolling_7d_roas": 3.9172
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-01-13",
+      "daily_spend": 6701.1,
+      "daily_revenue": 31406.57,
+      "rolling_7d_roas": 4.0028
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-01-14",
+      "daily_spend": 4415.24,
+      "daily_revenue": 37603.74,
+      "rolling_7d_roas": 5.443
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-01-16",
+      "daily_spend": 7153.8,
+      "daily_revenue": 66053.72,
+      "rolling_7d_roas": 6.1703
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-01-17",
+      "daily_spend": 32074.61,
+      "daily_revenue": 145203.76,
+      "rolling_7d_roas": 5.3351
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-01-18",
+      "daily_spend": 14906.16,
+      "daily_revenue": 189271.31,
+      "rolling_7d_roas": 7.1959
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-01-19",
+      "daily_spend": 12384.0,
+      "daily_revenue": 34386.07,
+      "rolling_7d_roas": 6.491
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-01-20",
+      "daily_spend": 8116.86,
+      "daily_revenue": 17943.62,
+      "rolling_7d_roas": 6.2044
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-01-21",
+      "daily_spend": 20507.83,
+      "daily_revenue": 252710.44,
+      "rolling_7d_roas": 7.4159
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-01-22",
+      "daily_spend": 14484.31,
+      "daily_revenue": 115713.25,
+      "rolling_7d_roas": 7.4916
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-01-24",
+      "daily_spend": 8800.83,
+      "daily_revenue": 104740.0,
+      "rolling_7d_roas": 9.0248
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-01-25",
+      "daily_spend": 6885.56,
+      "daily_revenue": 10535.91,
+      "rolling_7d_roas": 7.5307
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-01-26",
+      "daily_spend": 1249.5,
+      "daily_revenue": 3037.11,
+      "rolling_7d_roas": 8.4051
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-01-27",
+      "daily_spend": 10839.19,
+      "daily_revenue": 50163.99,
+      "rolling_7d_roas": 8.5538
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-01-28",
+      "daily_spend": 10530.74,
+      "daily_revenue": 94636.92,
+      "rolling_7d_roas": 7.1761
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-01-30",
+      "daily_spend": 1496.04,
+      "daily_revenue": 41382.29,
+      "rolling_7d_roas": 7.6503
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-01-31",
+      "daily_spend": 15505.53,
+      "daily_revenue": 127718.12,
+      "rolling_7d_roas": 7.0415
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-02-01",
+      "daily_spend": 16008.28,
+      "daily_revenue": 244653.35,
+      "rolling_7d_roas": 10.0953
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-02-02",
+      "daily_spend": 35211.33,
+      "daily_revenue": 202258.62,
+      "rolling_7d_roas": 8.4921
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-02-03",
+      "daily_spend": 16847.34,
+      "daily_revenue": 92580.68,
+      "rolling_7d_roas": 8.4021
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-02-05",
+      "daily_spend": 11701.68,
+      "daily_revenue": 77467.98,
+      "rolling_7d_roas": 8.123
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-02-06",
+      "daily_spend": 4954.12,
+      "daily_revenue": 67494.43,
+      "rolling_7d_roas": 8.1032
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-02-07",
+      "daily_spend": 5376.8,
+      "daily_revenue": 41333.68,
+      "rolling_7d_roas": 8.0554
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-02-08",
+      "daily_spend": 13275.92,
+      "daily_revenue": 40791.36,
+      "rolling_7d_roas": 5.9739
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-02-10",
+      "daily_spend": 13080.8,
+      "daily_revenue": 83458.18,
+      "rolling_7d_roas": 6.4176
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-02-11",
+      "daily_spend": 7872.36,
+      "daily_revenue": 190302.46,
+      "rolling_7d_roas": 8.9021
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-02-12",
+      "daily_spend": 3463.57,
+      "daily_revenue": 25795.55,
+      "rolling_7d_roas": 9.3532
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-02-14",
+      "daily_spend": 840.72,
+      "daily_revenue": 16973.79,
+      "rolling_7d_roas": 9.273
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-02-16",
+      "daily_spend": 13723.47,
+      "daily_revenue": 86774.51,
+      "rolling_7d_roas": 10.3462
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-02-17",
+      "daily_spend": 29865.35,
+      "daily_revenue": 86904.4,
+      "rolling_7d_roas": 7.294
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-02-18",
+      "daily_spend": 15897.69,
+      "daily_revenue": 153283.64,
+      "rolling_7d_roas": 5.796
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-02-22",
+      "daily_spend": 8663.77,
+      "daily_revenue": 3369.53,
+      "rolling_7d_roas": 4.8471
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-02-23",
+      "daily_spend": 10760.58,
+      "daily_revenue": 160462.58,
+      "rolling_7d_roas": 6.1978
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-02-24",
+      "daily_spend": 10257.52,
+      "daily_revenue": 130820.56,
+      "rolling_7d_roas": 9.8276
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-02-25",
+      "daily_spend": 3279.1,
+      "daily_revenue": 40566.37,
+      "rolling_7d_roas": 10.1702
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-02-26",
+      "daily_spend": 6256.46,
+      "daily_revenue": 9808.76,
+      "rolling_7d_roas": 8.7978
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-02-27",
+      "daily_spend": 14341.12,
+      "daily_revenue": 71034.45,
+      "rolling_7d_roas": 7.7684
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-02-28",
+      "daily_spend": 4849.9,
+      "daily_revenue": 71382.96,
+      "rolling_7d_roas": 8.3455
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-02-29",
+      "daily_spend": 9434.55,
+      "daily_revenue": 51621.67,
+      "rolling_7d_roas": 9.0521
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-03-01",
+      "daily_spend": 9011.9,
+      "daily_revenue": 49114.83,
+      "rolling_7d_roas": 7.3889
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-03-03",
+      "daily_spend": 11476.24,
+      "daily_revenue": 108198.8,
+      "rolling_7d_roas": 6.5227
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-03-05",
+      "daily_spend": 16181.76,
+      "daily_revenue": 148695.91,
+      "rolling_7d_roas": 8.4196
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-03-06",
+      "daily_spend": 6637.95,
+      "daily_revenue": 15410.94,
+      "rolling_7d_roas": 7.0729
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-03-07",
+      "daily_spend": 15411.6,
+      "daily_revenue": 224929.42,
+      "rolling_7d_roas": 9.3044
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-03-08",
+      "daily_spend": 2988.09,
+      "daily_revenue": 6030.56,
+      "rolling_7d_roas": 9.5504
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-03-10",
+      "daily_spend": 12075.72,
+      "daily_revenue": 242039.99,
+      "rolling_7d_roas": 11.9543
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-03-11",
+      "daily_spend": 5865.09,
+      "daily_revenue": 102707.85,
+      "rolling_7d_roas": 12.5053
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-03-12",
+      "daily_spend": 3779.16,
+      "daily_revenue": 13660.38,
+      "rolling_7d_roas": 12.9343
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-03-14",
+      "daily_spend": 11642.78,
+      "daily_revenue": 27427.93,
+      "rolling_7d_roas": 10.7801
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-03-15",
+      "daily_spend": 4436.88,
+      "daily_revenue": 5864.19,
+      "rolling_7d_roas": 10.3625
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-03-17",
+      "daily_spend": 5072.64,
+      "daily_revenue": 41271.28,
+      "rolling_7d_roas": 6.1998
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-03-19",
+      "daily_spend": 16994.61,
+      "daily_revenue": 38199.8,
+      "rolling_7d_roas": 2.956
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-03-20",
+      "daily_spend": 4085.5,
+      "daily_revenue": 155778.92,
+      "rolling_7d_roas": 6.3587
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-03-21",
+      "daily_spend": 5599.44,
+      "daily_revenue": 31875.88,
+      "rolling_7d_roas": 7.5434
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-03-22",
+      "daily_spend": 9756.97,
+      "daily_revenue": 90455.83,
+      "rolling_7d_roas": 8.6145
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-03-23",
+      "daily_spend": 2349.4,
+      "daily_revenue": 6729.96,
+      "rolling_7d_roas": 8.3065
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-03-25",
+      "daily_spend": 1182.3,
+      "daily_revenue": 30312.31,
+      "rolling_7d_roas": 8.8408
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-03-26",
+      "daily_spend": 11722.92,
+      "daily_revenue": 40136.29,
+      "rolling_7d_roas": 10.2399
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-03-27",
+      "daily_spend": 562.06,
+      "daily_revenue": 3231.96,
+      "rolling_7d_roas": 6.5038
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-03-28",
+      "daily_spend": 1260.84,
+      "daily_revenue": 8735.32,
+      "rolling_7d_roas": 6.6929
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-03-29",
+      "daily_spend": 3849.08,
+      "daily_revenue": 52932.5,
+      "rolling_7d_roas": 6.7894
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-03-30",
+      "daily_spend": 5260.3,
+      "daily_revenue": 66623.86,
+      "rolling_7d_roas": 8.4729
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-04-01",
+      "daily_spend": 12448.5,
+      "daily_revenue": 87052.42,
+      "rolling_7d_roas": 7.3699
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-04-03",
+      "daily_spend": 6859.9,
+      "daily_revenue": 67016.65,
+      "rolling_7d_roas": 9.5139
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-04-04",
+      "daily_spend": 32651.12,
+      "daily_revenue": 246403.94,
+      "rolling_7d_roas": 8.5155
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-04-05",
+      "daily_spend": 25878.87,
+      "daily_revenue": 233619.35,
+      "rolling_7d_roas": 8.4323
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-04-06",
+      "daily_spend": 17734.84,
+      "daily_revenue": 239087.73,
+      "rolling_7d_roas": 9.1362
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-04-07",
+      "daily_spend": 9590.88,
+      "daily_revenue": 51752.0,
+      "rolling_7d_roas": 8.7951
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-04-09",
+      "daily_spend": 2841.77,
+      "daily_revenue": 27594.33,
+      "rolling_7d_roas": 9.0571
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-04-11",
+      "daily_spend": 28100.55,
+      "daily_revenue": 160302.1,
+      "rolling_7d_roas": 8.4656
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-04-12",
+      "daily_spend": 5607.98,
+      "daily_revenue": 103237.84,
+      "rolling_7d_roas": 9.111
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-04-13",
+      "daily_spend": 30882.59,
+      "daily_revenue": 179158.34,
+      "rolling_7d_roas": 6.7777
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-04-14",
+      "daily_spend": 15695.69,
+      "daily_revenue": 119251.08,
+      "rolling_7d_roas": 7.0919
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-04-17",
+      "daily_spend": 23322.48,
+      "daily_revenue": 238304.0,
+      "rolling_7d_roas": 7.7238
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-04-18",
+      "daily_spend": 14855.4,
+      "daily_revenue": 154471.07,
+      "rolling_7d_roas": 8.7913
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-04-19",
+      "daily_spend": 2175.0,
+      "daily_revenue": 14237.0,
+      "rolling_7d_roas": 8.1147
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-04-20",
+      "daily_spend": 20663.38,
+      "daily_revenue": 77265.98,
+      "rolling_7d_roas": 7.8675
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-04-21",
+      "daily_spend": 1850.64,
+      "daily_revenue": 26865.9,
+      "rolling_7d_roas": 8.1306
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-04-22",
+      "daily_spend": 16428.92,
+      "daily_revenue": 61761.87,
+      "rolling_7d_roas": 7.2249
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-04-26",
+      "daily_spend": 3938.4,
+      "daily_revenue": 13519.27,
+      "rolling_7d_roas": 4.1839
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-04-27",
+      "daily_spend": 819.64,
+      "daily_revenue": 12715.09,
+      "rolling_7d_roas": 4.9859
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-04-28",
+      "daily_spend": 9181.92,
+      "daily_revenue": 14612.87,
+      "rolling_7d_roas": 3.3788
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-04-29",
+      "daily_spend": 3496.24,
+      "daily_revenue": 15070.44,
+      "rolling_7d_roas": 3.207
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-05-01",
+      "daily_spend": 8041.0,
+      "daily_revenue": 31071.69,
+      "rolling_7d_roas": 3.4144
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-05-04",
+      "daily_spend": 11489.9,
+      "daily_revenue": 23286.47,
+      "rolling_7d_roas": 2.6092
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-05-05",
+      "daily_spend": 15947.2,
+      "daily_revenue": 78044.55,
+      "rolling_7d_roas": 3.7839
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-05-07",
+      "daily_spend": 1660.05,
+      "daily_revenue": 81349.35,
+      "rolling_7d_roas": 5.7556
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-05-09",
+      "daily_spend": 8827.92,
+      "daily_revenue": 65371.17,
+      "rolling_7d_roas": 6.5406
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-05-10",
+      "daily_spend": 2113.8,
+      "daily_revenue": 24076.73,
+      "rolling_7d_roas": 6.7966
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-05-11",
+      "daily_spend": 10800.0,
+      "daily_revenue": 5446.79,
+      "rolling_7d_roas": 6.4624
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-05-12",
+      "daily_spend": 14915.94,
+      "daily_revenue": 139364.5,
+      "rolling_7d_roas": 8.2366
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-05-16",
+      "daily_spend": 5532.71,
+      "daily_revenue": 129293.29,
+      "rolling_7d_roas": 8.9376
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-05-17",
+      "daily_spend": 12067.93,
+      "daily_revenue": 55168.62,
+      "rolling_7d_roas": 7.6016
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-05-19",
+      "daily_spend": 14358.49,
+      "daily_revenue": 256941.14,
+      "rolling_7d_roas": 13.8115
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-05-21",
+      "daily_spend": 4455.92,
+      "daily_revenue": 48424.44,
+      "rolling_7d_roas": 13.4512
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-05-22",
+      "daily_spend": 3872.7,
+      "daily_revenue": 25462.93,
+      "rolling_7d_roas": 12.7903
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-05-23",
+      "daily_spend": 4548.88,
+      "daily_revenue": 117508.77,
+      "rolling_7d_roas": 12.8106
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-05-24",
+      "daily_spend": 18516.12,
+      "daily_revenue": 81411.24,
+      "rolling_7d_roas": 11.5787
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-05-26",
+      "daily_spend": 12440.31,
+      "daily_revenue": 61712.86,
+      "rolling_7d_roas": 7.6315
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-05-27",
+      "daily_spend": 3274.6,
+      "daily_revenue": 14081.65,
+      "rolling_7d_roas": 7.4
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-05-28",
+      "daily_spend": 4821.32,
+      "daily_revenue": 36153.63,
+      "rolling_7d_roas": 7.0845
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-05-29",
+      "daily_spend": 5241.36,
+      "daily_revenue": 21870.76,
+      "rolling_7d_roas": 6.8125
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-05-30",
+      "daily_spend": 6020.56,
+      "daily_revenue": 53965.61,
+      "rolling_7d_roas": 5.3503
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-06-01",
+      "daily_spend": 5542.96,
+      "daily_revenue": 50987.0,
+      "rolling_7d_roas": 6.3943
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-06-02",
+      "daily_spend": 1776.6,
+      "daily_revenue": 21647.86,
+      "rolling_7d_roas": 7.4485
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-06-03",
+      "daily_spend": 11175.23,
+      "daily_revenue": 61119.12,
+      "rolling_7d_roas": 7.1069
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-06-05",
+      "daily_spend": 12227.19,
+      "daily_revenue": 78468.64,
+      "rolling_7d_roas": 7.2447
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-06-07",
+      "daily_spend": 21581.2,
+      "daily_revenue": 195233.42,
+      "rolling_7d_roas": 7.7903
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-06-09",
+      "daily_spend": 4838.67,
+      "daily_revenue": 27524.79,
+      "rolling_7d_roas": 7.2728
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-06-10",
+      "daily_spend": 4322.86,
+      "daily_revenue": 63069.45,
+      "rolling_7d_roas": 8.4779
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-06-13",
+      "daily_spend": 11318.4,
+      "daily_revenue": 26357.3,
+      "rolling_7d_roas": 7.4222
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-06-15",
+      "daily_spend": 22494.14,
+      "daily_revenue": 147390.78,
+      "rolling_7d_roas": 6.1512
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-06-18",
+      "daily_spend": 9046.34,
+      "daily_revenue": 28878.71,
+      "rolling_7d_roas": 4.7278
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-06-19",
+      "daily_spend": 9899.12,
+      "daily_revenue": 34456.26,
+      "rolling_7d_roas": 4.4938
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-06-21",
+      "daily_spend": 24066.24,
+      "daily_revenue": 104988.56,
+      "rolling_7d_roas": 4.8196
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-06-22",
+      "daily_spend": 15275.95,
+      "daily_revenue": 34611.39,
+      "rolling_7d_roas": 3.4816
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-06-25",
+      "daily_spend": 4351.09,
+      "daily_revenue": 88379.56,
+      "rolling_7d_roas": 4.8969
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-06-26",
+      "daily_spend": 2545.52,
+      "daily_revenue": 67689.44,
+      "rolling_7d_roas": 6.3944
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-06-27",
+      "daily_spend": 8091.76,
+      "daily_revenue": 91221.43,
+      "rolling_7d_roas": 7.121
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-07-02",
+      "daily_spend": 5567.1,
+      "daily_revenue": 17255.15,
+      "rolling_7d_roas": 10.8715
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-07-03",
+      "daily_spend": 6027.01,
+      "daily_revenue": 21158.33,
+      "rolling_7d_roas": 6.5852
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-07-04",
+      "daily_spend": 13666.85,
+      "daily_revenue": 18268.13,
+      "rolling_7d_roas": 2.2438
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-07-05",
+      "daily_spend": 5617.44,
+      "daily_revenue": 10269.39,
+      "rolling_7d_roas": 2.1682
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-07-06",
+      "daily_spend": 30063.08,
+      "daily_revenue": 191491.38,
+      "rolling_7d_roas": 4.2408
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-07-08",
+      "daily_spend": 7050.41,
+      "daily_revenue": 76491.74,
+      "rolling_7d_roas": 4.9261
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-07-11",
+      "daily_spend": 8866.2,
+      "daily_revenue": 200566.9,
+      "rolling_7d_roas": 9.28
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-07-12",
+      "daily_spend": 1984.49,
+      "daily_revenue": 39155.6,
+      "rolling_7d_roas": 10.5851
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-07-14",
+      "daily_spend": 12028.15,
+      "daily_revenue": 97798.05,
+      "rolling_7d_roas": 13.833
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-07-16",
+      "daily_spend": 5967.54,
+      "daily_revenue": 39581.75,
+      "rolling_7d_roas": 13.0728
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-07-17",
+      "daily_spend": 12664.47,
+      "daily_revenue": 36680.47,
+      "rolling_7d_roas": 9.9681
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-07-19",
+      "daily_spend": 5539.56,
+      "daily_revenue": 22178.1,
+      "rolling_7d_roas": 5.421
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-07-20",
+      "daily_spend": 15409.62,
+      "daily_revenue": 163989.09,
+      "rolling_7d_roas": 6.9799
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-07-21",
+      "daily_spend": 28693.5,
+      "daily_revenue": 391168.7,
+      "rolling_7d_roas": 9.5731
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-07-23",
+      "daily_spend": 3602.5,
+      "daily_revenue": 6028.08,
+      "rolling_7d_roas": 9.4075
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-07-24",
+      "daily_spend": 2338.88,
+      "daily_revenue": 24136.13,
+      "rolling_7d_roas": 10.9294
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-07-25",
+      "daily_spend": 3722.94,
+      "daily_revenue": 5215.94,
+      "rolling_7d_roas": 10.3313
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-07-26",
+      "daily_spend": 4700.33,
+      "daily_revenue": 48544.59,
+      "rolling_7d_roas": 10.9305
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-07-31",
+      "daily_spend": 1729.95,
+      "daily_revenue": 7492.97,
+      "rolling_7d_roas": 6.0329
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-08-01",
+      "daily_spend": 13634.73,
+      "daily_revenue": 82598.9,
+      "rolling_7d_roas": 6.9094
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-08-02",
+      "daily_spend": 4942.84,
+      "daily_revenue": 60995.17,
+      "rolling_7d_roas": 7.44
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-08-03",
+      "daily_spend": 919.8,
+      "daily_revenue": 16081.05,
+      "rolling_7d_roas": 7.8751
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-08-04",
+      "daily_spend": 4474.61,
+      "daily_revenue": 27205.77,
+      "rolling_7d_roas": 7.5626
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-08-07",
+      "daily_spend": 2023.5,
+      "daily_revenue": 15099.56,
+      "rolling_7d_roas": 7.7698
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-08-08",
+      "daily_spend": 2987.49,
+      "daily_revenue": 19667.27,
+      "rolling_7d_roas": 9.0596
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-08-09",
+      "daily_spend": 7805.07,
+      "daily_revenue": 67215.82,
+      "rolling_7d_roas": 7.9772
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-08-10",
+      "daily_spend": 8202.92,
+      "daily_revenue": 35145.36,
+      "rolling_7d_roas": 6.4461
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-08-11",
+      "daily_spend": 14499.2,
+      "daily_revenue": 192622.62,
+      "rolling_7d_roas": 9.284
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-08-12",
+      "daily_spend": 329.28,
+      "daily_revenue": 2887.05,
+      "rolling_7d_roas": 9.2793
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-08-13",
+      "daily_spend": 10021.93,
+      "daily_revenue": 147002.9,
+      "rolling_7d_roas": 10.4567
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-08-14",
+      "daily_spend": 3158.58,
+      "daily_revenue": 44113.49,
+      "rolling_7d_roas": 10.8214
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-08-15",
+      "daily_spend": 1289.48,
+      "daily_revenue": 7885.85,
+      "rolling_7d_roas": 10.9669
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-08-16",
+      "daily_spend": 4974.48,
+      "daily_revenue": 33456.44,
+      "rolling_7d_roas": 10.903
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-08-17",
+      "daily_spend": 8995.3,
+      "daily_revenue": 21100.54,
+      "rolling_7d_roas": 10.3787
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-08-18",
+      "daily_spend": 6289.67,
+      "daily_revenue": 25899.6,
+      "rolling_7d_roas": 8.0535
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-08-19",
+      "daily_spend": 5959.0,
+      "daily_revenue": 35617.0,
+      "rolling_7d_roas": 7.7436
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-08-20",
+      "daily_spend": 22136.96,
+      "daily_revenue": 229306.66,
+      "rolling_7d_roas": 7.5256
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-08-21",
+      "daily_spend": 4737.07,
+      "daily_revenue": 39448.18,
+      "rolling_7d_roas": 7.2214
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-08-22",
+      "daily_spend": 550.55,
+      "daily_revenue": 3533.89,
+      "rolling_7d_roas": 7.2398
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-08-24",
+      "daily_spend": 23310.25,
+      "daily_revenue": 142798.46,
+      "rolling_7d_roas": 7.5671
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-08-26",
+      "daily_spend": 9862.4,
+      "daily_revenue": 30909.61,
+      "rolling_7d_roas": 7.36
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-08-27",
+      "daily_spend": 3370.38,
+      "daily_revenue": 25118.55,
+      "rolling_7d_roas": 5.7807
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-08-30",
+      "daily_spend": 16692.0,
+      "daily_revenue": 80374.66,
+      "rolling_7d_roas": 5.2447
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-09-01",
+      "daily_spend": 21077.75,
+      "daily_revenue": 84458.49,
+      "rolling_7d_roas": 4.3304
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-09-03",
+      "daily_spend": 15882.23,
+      "daily_revenue": 76558.21,
+      "rolling_7d_roas": 4.4992
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-09-04",
+      "daily_spend": 5446.98,
+      "daily_revenue": 10627.54,
+      "rolling_7d_roas": 4.2644
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-09-07",
+      "daily_spend": 14749.0,
+      "daily_revenue": 30094.65,
+      "rolling_7d_roas": 3.5296
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-09-10",
+      "daily_spend": 22252.88,
+      "daily_revenue": 84928.28,
+      "rolling_7d_roas": 2.96
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-09-11",
+      "daily_spend": 5396.86,
+      "daily_revenue": 3555.98,
+      "rolling_7d_roas": 2.7968
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-09-14",
+      "daily_spend": 12397.28,
+      "daily_revenue": 300722.87,
+      "rolling_7d_roas": 9.7188
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-09-15",
+      "daily_spend": 8551.44,
+      "daily_revenue": 49251.38,
+      "rolling_7d_roas": 9.0221
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-09-16",
+      "daily_spend": 2812.32,
+      "daily_revenue": 42271.31,
+      "rolling_7d_roas": 9.3508
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-09-17",
+      "daily_spend": 7277.0,
+      "daily_revenue": 48117.42,
+      "rolling_7d_roas": 12.1839
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-09-18",
+      "daily_spend": 16308.3,
+      "daily_revenue": 219011.41,
+      "rolling_7d_roas": 13.9266
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-09-19",
+      "daily_spend": 4959.3,
+      "daily_revenue": 44193.52,
+      "rolling_7d_roas": 13.4511
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-09-21",
+      "daily_spend": 20307.81,
+      "daily_revenue": 269308.92,
+      "rolling_7d_roas": 11.1623
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-09-22",
+      "daily_spend": 2818.65,
+      "daily_revenue": 57664.9,
+      "rolling_7d_roas": 12.4913
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-09-24",
+      "daily_spend": 27874.15,
+      "daily_revenue": 119202.66,
+      "rolling_7d_roas": 9.816
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-09-25",
+      "daily_spend": 36561.72,
+      "daily_revenue": 291523.69,
+      "rolling_7d_roas": 8.4509
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-09-26",
+      "daily_spend": 3252.06,
+      "daily_revenue": 87393.19,
+      "rolling_7d_roas": 9.0855
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-09-27",
+      "daily_spend": 7043.18,
+      "daily_revenue": 53702.8,
+      "rolling_7d_roas": 8.9804
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-09-28",
+      "daily_spend": 1728.96,
+      "daily_revenue": 22980.94,
+      "rolling_7d_roas": 7.9778
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-09-29",
+      "daily_spend": 9048.13,
+      "daily_revenue": 72736.17,
+      "rolling_7d_roas": 7.5728
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-10-01",
+      "daily_spend": 5397.84,
+      "daily_revenue": 40162.93,
+      "rolling_7d_roas": 9.0192
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-10-02",
+      "daily_spend": 679.76,
+      "daily_revenue": 1100.59,
+      "rolling_7d_roas": 10.2423
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-10-03",
+      "daily_spend": 4667.96,
+      "daily_revenue": 190244.62,
+      "rolling_7d_roas": 13.3351
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-10-04",
+      "daily_spend": 6067.81,
+      "daily_revenue": 35123.51,
+      "rolling_7d_roas": 13.1331
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-10-06",
+      "daily_spend": 31161.66,
+      "daily_revenue": 106948.83,
+      "rolling_7d_roas": 7.787
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-10-07",
+      "daily_spend": 19720.72,
+      "daily_revenue": 171212.51,
+      "rolling_7d_roas": 8.0477
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-10-09",
+      "daily_spend": 3943.8,
+      "daily_revenue": 42279.01,
+      "rolling_7d_roas": 8.3251
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-10-11",
+      "daily_spend": 2420.04,
+      "daily_revenue": 13580.22,
+      "rolling_7d_roas": 5.8348
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-10-14",
+      "daily_spend": 9968.0,
+      "daily_revenue": 81609.12,
+      "rolling_7d_roas": 8.4172
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-10-15",
+      "daily_spend": 8090.05,
+      "daily_revenue": 41938.28,
+      "rolling_7d_roas": 7.3461
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-10-16",
+      "daily_spend": 8617.26,
+      "daily_revenue": 39985.98,
+      "rolling_7d_roas": 6.0874
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-10-17",
+      "daily_spend": 18454.27,
+      "daily_revenue": 128747.56,
+      "rolling_7d_roas": 6.4325
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-10-19",
+      "daily_spend": 5868.64,
+      "daily_revenue": 25992.88,
+      "rolling_7d_roas": 6.2409
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-10-20",
+      "daily_spend": 15748.8,
+      "daily_revenue": 68818.21,
+      "rolling_7d_roas": 5.7994
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-10-21",
+      "daily_spend": 20277.33,
+      "daily_revenue": 76238.77,
+      "rolling_7d_roas": 4.9538
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-10-23",
+      "daily_spend": 968.35,
+      "daily_revenue": 469.8,
+      "rolling_7d_roas": 4.8969
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-10-24",
+      "daily_spend": 15303.66,
+      "daily_revenue": 111620.67,
+      "rolling_7d_roas": 4.8677
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-10-25",
+      "daily_spend": 5838.08,
+      "daily_revenue": 170654.73,
+      "rolling_7d_roas": 7.09
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-10-26",
+      "daily_spend": 6003.9,
+      "daily_revenue": 41067.13,
+      "rolling_7d_roas": 7.3101
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-10-27",
+      "daily_spend": 11976.91,
+      "daily_revenue": 84859.55,
+      "rolling_7d_roas": 8.0325
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-10-28",
+      "daily_spend": 32867.4,
+      "daily_revenue": 98785.01,
+      "rolling_7d_roas": 6.9554
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-10-29",
+      "daily_spend": 7240.14,
+      "daily_revenue": 48555.89,
+      "rolling_7d_roas": 6.933
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-10-30",
+      "daily_spend": 3339.63,
+      "daily_revenue": 7304.51,
+      "rolling_7d_roas": 6.8166
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-10-31",
+      "daily_spend": 24691.46,
+      "daily_revenue": 250172.49,
+      "rolling_7d_roas": 7.6274
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-11-01",
+      "daily_spend": 14035.07,
+      "daily_revenue": 196161.0,
+      "rolling_7d_roas": 7.2578
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-11-02",
+      "daily_spend": 6820.4,
+      "daily_revenue": 150774.99,
+      "rolling_7d_roas": 8.2857
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-11-03",
+      "daily_spend": 20793.17,
+      "daily_revenue": 23357.33,
+      "rolling_7d_roas": 7.0601
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-11-04",
+      "daily_spend": 1272.6,
+      "daily_revenue": 38945.83,
+      "rolling_7d_roas": 9.1476
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-11-07",
+      "daily_spend": 16007.88,
+      "daily_revenue": 165825.37,
+      "rolling_7d_roas": 9.7586
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-11-08",
+      "daily_spend": 2991.6,
+      "daily_revenue": 16618.85,
+      "rolling_7d_roas": 8.2597
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-11-09",
+      "daily_spend": 3736.95,
+      "daily_revenue": 62355.52,
+      "rolling_7d_roas": 6.8546
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-11-11",
+      "daily_spend": 28552.72,
+      "daily_revenue": 139505.91,
+      "rolling_7d_roas": 7.4929
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-11-12",
+      "daily_spend": 4560.0,
+      "daily_revenue": 83385.98,
+      "rolling_7d_roas": 8.3742
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-11-13",
+      "daily_spend": 34382.0,
+      "daily_revenue": 160567.88,
+      "rolling_7d_roas": 6.9628
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-11-15",
+      "daily_spend": 3424.54,
+      "daily_revenue": 7676.57,
+      "rolling_7d_roas": 6.0744
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-11-16",
+      "daily_spend": 4991.18,
+      "daily_revenue": 35502.23,
+      "rolling_7d_roas": 5.6203
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-11-17",
+      "daily_spend": 14465.45,
+      "daily_revenue": 133563.06,
+      "rolling_7d_roas": 6.1986
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-11-19",
+      "daily_spend": 3135.75,
+      "daily_revenue": 9884.86,
+      "rolling_7d_roas": 5.7484
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-11-20",
+      "daily_spend": 754.56,
+      "daily_revenue": 4581.7,
+      "rolling_7d_roas": 7.1422
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-11-21",
+      "daily_spend": 4808.64,
+      "daily_revenue": 153650.81,
+      "rolling_7d_roas": 10.9201
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-11-22",
+      "daily_spend": 16508.21,
+      "daily_revenue": 133616.0,
+      "rolling_7d_roas": 10.5409
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-11-25",
+      "daily_spend": 6342.77,
+      "daily_revenue": 79985.87,
+      "rolling_7d_roas": 12.0989
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-11-27",
+      "daily_spend": 7882.38,
+      "daily_revenue": 131500.75,
+      "rolling_7d_roas": 14.0328
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-11-28",
+      "daily_spend": 3163.65,
+      "daily_revenue": 12153.4,
+      "rolling_7d_roas": 10.5395
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-11-29",
+      "daily_spend": 7316.69,
+      "daily_revenue": 141872.82,
+      "rolling_7d_roas": 14.7948
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-11-30",
+      "daily_spend": 352.16,
+      "daily_revenue": 399.8,
+      "rolling_7d_roas": 14.6028
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-12-03",
+      "daily_spend": 2674.68,
+      "daily_revenue": 23745.71,
+      "rolling_7d_roas": 14.4777
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-12-04",
+      "daily_spend": 992.75,
+      "daily_revenue": 5743.6,
+      "rolling_7d_roas": 12.6839
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-12-05",
+      "daily_spend": 19850.38,
+      "daily_revenue": 112780.28,
+      "rolling_7d_roas": 9.1238
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-12-06",
+      "daily_spend": 39342.17,
+      "daily_revenue": 200604.18,
+      "rolling_7d_roas": 5.4305
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-12-08",
+      "daily_spend": 9483.96,
+      "daily_revenue": 102657.71,
+      "rolling_7d_roas": 6.1585
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-12-09",
+      "daily_spend": 3413.14,
+      "daily_revenue": 16681.83,
+      "rolling_7d_roas": 6.1013
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-12-11",
+      "daily_spend": 2331.0,
+      "daily_revenue": 76092.65,
+      "rolling_7d_roas": 6.837
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-12-12",
+      "daily_spend": 35365.92,
+      "daily_revenue": 185300.32,
+      "rolling_7d_roas": 6.4639
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-12-13",
+      "daily_spend": 25488.42,
+      "daily_revenue": 82855.67,
+      "rolling_7d_roas": 6.0932
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-12-14",
+      "daily_spend": 29499.62,
+      "daily_revenue": 205918.58,
+      "rolling_7d_roas": 6.3411
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-12-16",
+      "daily_spend": 4920.5,
+      "daily_revenue": 38429.37,
+      "rolling_7d_roas": 6.0304
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-12-17",
+      "daily_spend": 7963.54,
+      "daily_revenue": 12349.14,
+      "rolling_7d_roas": 5.6924
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-12-18",
+      "daily_spend": 3488.99,
+      "daily_revenue": 146453.92,
+      "rolling_7d_roas": 6.2899
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-12-19",
+      "daily_spend": 6817.36,
+      "daily_revenue": 99299.9,
+      "rolling_7d_roas": 7.4868
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-12-20",
+      "daily_spend": 5246.55,
+      "daily_revenue": 85268.07,
+      "rolling_7d_roas": 10.1442
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-12-22",
+      "daily_spend": 23113.83,
+      "daily_revenue": 144256.19,
+      "rolling_7d_roas": 10.2046
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-12-23",
+      "daily_spend": 14611.1,
+      "daily_revenue": 71028.25,
+      "rolling_7d_roas": 9.1222
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-12-24",
+      "daily_spend": 7555.86,
+      "daily_revenue": 81199.4,
+      "rolling_7d_roas": 10.3151
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-12-26",
+      "daily_spend": 6949.19,
+      "daily_revenue": 22162.15,
+      "rolling_7d_roas": 7.0275
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-12-27",
+      "daily_spend": 2253.88,
+      "daily_revenue": 23120.58,
+      "rolling_7d_roas": 6.2728
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-12-28",
+      "daily_spend": 2232.27,
+      "daily_revenue": 10321.59,
+      "rolling_7d_roas": 6.2079
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-12-29",
+      "daily_spend": 1724.13,
+      "daily_revenue": 53421.72,
+      "rolling_7d_roas": 7.3954
+    },
+    {
+      "platform": "TikTok Ads",
+      "event_date": "2024-12-30",
+      "daily_spend": 20069.45,
+      "daily_revenue": 135425.03,
+      "rolling_7d_roas": 7.9846
+    }
+  ]
+}

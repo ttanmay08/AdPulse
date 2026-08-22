@@ -1,0 +1,1442 @@
+{
+  "route": "/wow-efficiency",
+  "params": {
+    "start_date": "1970-01-01",
+    "end_date": "2100-01-01",
+    "channel": null
+  },
+  "count": 159,
+  "results": [
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-01-01",
+      "weekly_spend": 64639.29,
+      "weekly_revenue": 158282.38,
+      "weekly_roas": 2.4487,
+      "prior_week_roas": null,
+      "roas_wow_pct_change": null
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-01-08",
+      "weekly_spend": 76999.52,
+      "weekly_revenue": 205880.85,
+      "weekly_roas": 2.6738,
+      "prior_week_roas": 2.4487,
+      "roas_wow_pct_change": 9.19
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-01-15",
+      "weekly_spend": 148613.45,
+      "weekly_revenue": 488909.3,
+      "weekly_roas": 3.2898,
+      "prior_week_roas": 2.6738,
+      "roas_wow_pct_change": 23.04
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-01-22",
+      "weekly_spend": 83895.53,
+      "weekly_revenue": 435862.53,
+      "weekly_roas": 5.1953,
+      "prior_week_roas": 3.2898,
+      "roas_wow_pct_change": 57.92
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-01-29",
+      "weekly_spend": 102147.05,
+      "weekly_revenue": 370729.47,
+      "weekly_roas": 3.6294,
+      "prior_week_roas": 5.1953,
+      "roas_wow_pct_change": -30.14
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-02-05",
+      "weekly_spend": 82508.17,
+      "weekly_revenue": 325194.04,
+      "weekly_roas": 3.9414,
+      "prior_week_roas": 3.6294,
+      "roas_wow_pct_change": 8.6
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-02-12",
+      "weekly_spend": 160242.73,
+      "weekly_revenue": 530659.79,
+      "weekly_roas": 3.3116,
+      "prior_week_roas": 3.9414,
+      "roas_wow_pct_change": -15.98
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-02-19",
+      "weekly_spend": 141444.16,
+      "weekly_revenue": 500967.06,
+      "weekly_roas": 3.5418,
+      "prior_week_roas": 3.3116,
+      "roas_wow_pct_change": 6.95
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-02-26",
+      "weekly_spend": 119319.52,
+      "weekly_revenue": 403870.42,
+      "weekly_roas": 3.3848,
+      "prior_week_roas": 3.5418,
+      "roas_wow_pct_change": -4.43
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-03-04",
+      "weekly_spend": 112251.37,
+      "weekly_revenue": 501450.73,
+      "weekly_roas": 4.4672,
+      "prior_week_roas": 3.3848,
+      "roas_wow_pct_change": 31.98
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-03-11",
+      "weekly_spend": 123676.04,
+      "weekly_revenue": 451887.74,
+      "weekly_roas": 3.6538,
+      "prior_week_roas": 4.4672,
+      "roas_wow_pct_change": -18.21
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-03-18",
+      "weekly_spend": 99210.53,
+      "weekly_revenue": 194558.63,
+      "weekly_roas": 1.9611,
+      "prior_week_roas": 3.6538,
+      "roas_wow_pct_change": -46.33
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-03-25",
+      "weekly_spend": 176326.76,
+      "weekly_revenue": 762515.61,
+      "weekly_roas": 4.3244,
+      "prior_week_roas": 1.9611,
+      "roas_wow_pct_change": 120.51
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-04-01",
+      "weekly_spend": 119882.48,
+      "weekly_revenue": 425288.71,
+      "weekly_roas": 3.5475,
+      "prior_week_roas": 4.3244,
+      "roas_wow_pct_change": -17.97
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-04-08",
+      "weekly_spend": 220895.74,
+      "weekly_revenue": 798041.02,
+      "weekly_roas": 3.6127,
+      "prior_week_roas": 3.5475,
+      "roas_wow_pct_change": 1.84
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-04-15",
+      "weekly_spend": 102721.69,
+      "weekly_revenue": 620441.31,
+      "weekly_roas": 6.04,
+      "prior_week_roas": 3.6127,
+      "roas_wow_pct_change": 67.19
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-04-22",
+      "weekly_spend": 105600.52,
+      "weekly_revenue": 246335.71,
+      "weekly_roas": 2.3327,
+      "prior_week_roas": 6.04,
+      "roas_wow_pct_change": -61.38
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-04-29",
+      "weekly_spend": 166803.25,
+      "weekly_revenue": 320329.8,
+      "weekly_roas": 1.9204,
+      "prior_week_roas": 2.3327,
+      "roas_wow_pct_change": -17.67
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-05-06",
+      "weekly_spend": 82713.15,
+      "weekly_revenue": 380657.32,
+      "weekly_roas": 4.6021,
+      "prior_week_roas": 1.9204,
+      "roas_wow_pct_change": 139.64
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-05-13",
+      "weekly_spend": 176520.22,
+      "weekly_revenue": 560929.96,
+      "weekly_roas": 3.1777,
+      "prior_week_roas": 4.6021,
+      "roas_wow_pct_change": -30.95
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-05-20",
+      "weekly_spend": 131088.63,
+      "weekly_revenue": 306028.88,
+      "weekly_roas": 2.3345,
+      "prior_week_roas": 3.1777,
+      "roas_wow_pct_change": -26.53
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-05-27",
+      "weekly_spend": 129016.39,
+      "weekly_revenue": 289765.3,
+      "weekly_roas": 2.246,
+      "prior_week_roas": 2.3345,
+      "roas_wow_pct_change": -3.79
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-06-03",
+      "weekly_spend": 91081.06,
+      "weekly_revenue": 337107.3,
+      "weekly_roas": 3.7012,
+      "prior_week_roas": 2.246,
+      "roas_wow_pct_change": 64.79
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-06-10",
+      "weekly_spend": 67743.56,
+      "weekly_revenue": 152981.35,
+      "weekly_roas": 2.2582,
+      "prior_week_roas": 3.7012,
+      "roas_wow_pct_change": -38.99
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-06-17",
+      "weekly_spend": 106606.63,
+      "weekly_revenue": 314754.08,
+      "weekly_roas": 2.9525,
+      "prior_week_roas": 2.2582,
+      "roas_wow_pct_change": 30.75
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-06-24",
+      "weekly_spend": 279050.65,
+      "weekly_revenue": 1126684.74,
+      "weekly_roas": 4.0376,
+      "prior_week_roas": 2.9525,
+      "roas_wow_pct_change": 36.75
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-07-01",
+      "weekly_spend": 57626.79,
+      "weekly_revenue": 150569.45,
+      "weekly_roas": 2.6128,
+      "prior_week_roas": 4.0376,
+      "roas_wow_pct_change": -35.29
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-07-08",
+      "weekly_spend": 107958.13,
+      "weekly_revenue": 338232.93,
+      "weekly_roas": 3.133,
+      "prior_week_roas": 2.6128,
+      "roas_wow_pct_change": 19.91
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-07-15",
+      "weekly_spend": 119354.56,
+      "weekly_revenue": 335904.94,
+      "weekly_roas": 2.8143,
+      "prior_week_roas": 3.133,
+      "roas_wow_pct_change": -10.17
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-07-22",
+      "weekly_spend": 163190.21,
+      "weekly_revenue": 576650.32,
+      "weekly_roas": 3.5336,
+      "prior_week_roas": 2.8143,
+      "roas_wow_pct_change": 25.56
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-07-29",
+      "weekly_spend": 131836.58,
+      "weekly_revenue": 407652.96,
+      "weekly_roas": 3.0921,
+      "prior_week_roas": 3.5336,
+      "roas_wow_pct_change": -12.49
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-08-05",
+      "weekly_spend": 45165.85,
+      "weekly_revenue": 180989.5,
+      "weekly_roas": 4.0072,
+      "prior_week_roas": 3.0921,
+      "roas_wow_pct_change": 29.59
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-08-12",
+      "weekly_spend": 112925.85,
+      "weekly_revenue": 482176.86,
+      "weekly_roas": 4.2699,
+      "prior_week_roas": 4.0072,
+      "roas_wow_pct_change": 6.56
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-08-19",
+      "weekly_spend": 98681.6,
+      "weekly_revenue": 490575.81,
+      "weekly_roas": 4.9713,
+      "prior_week_roas": 4.2699,
+      "roas_wow_pct_change": 16.43
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-08-26",
+      "weekly_spend": 107401.87,
+      "weekly_revenue": 479943.75,
+      "weekly_roas": 4.4687,
+      "prior_week_roas": 4.9713,
+      "roas_wow_pct_change": -10.11
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-09-02",
+      "weekly_spend": 195003.2,
+      "weekly_revenue": 583201.38,
+      "weekly_roas": 2.9907,
+      "prior_week_roas": 4.4687,
+      "roas_wow_pct_change": -33.07
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-09-09",
+      "weekly_spend": 148785.0,
+      "weekly_revenue": 571981.54,
+      "weekly_roas": 3.8443,
+      "prior_week_roas": 2.9907,
+      "roas_wow_pct_change": 28.54
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-09-16",
+      "weekly_spend": 76983.25,
+      "weekly_revenue": 245051.71,
+      "weekly_roas": 3.1832,
+      "prior_week_roas": 3.8443,
+      "roas_wow_pct_change": -17.2
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-09-23",
+      "weekly_spend": 121735.04,
+      "weekly_revenue": 420737.88,
+      "weekly_roas": 3.4562,
+      "prior_week_roas": 3.1832,
+      "roas_wow_pct_change": 8.58
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-09-30",
+      "weekly_spend": 50736.28,
+      "weekly_revenue": 211912.66,
+      "weekly_roas": 4.1767,
+      "prior_week_roas": 3.4562,
+      "roas_wow_pct_change": 20.85
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-10-07",
+      "weekly_spend": 53796.58,
+      "weekly_revenue": 355176.75,
+      "weekly_roas": 6.6022,
+      "prior_week_roas": 4.1767,
+      "roas_wow_pct_change": 58.07
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-10-14",
+      "weekly_spend": 65381.61,
+      "weekly_revenue": 180409.61,
+      "weekly_roas": 2.7593,
+      "prior_week_roas": 6.6022,
+      "roas_wow_pct_change": -58.21
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-10-21",
+      "weekly_spend": 167639.08,
+      "weekly_revenue": 718270.68,
+      "weekly_roas": 4.2846,
+      "prior_week_roas": 2.7593,
+      "roas_wow_pct_change": 55.28
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-10-28",
+      "weekly_spend": 156211.3,
+      "weekly_revenue": 486087.73,
+      "weekly_roas": 3.1117,
+      "prior_week_roas": 4.2846,
+      "roas_wow_pct_change": -27.37
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-11-04",
+      "weekly_spend": 129689.82,
+      "weekly_revenue": 424800.4,
+      "weekly_roas": 3.2755,
+      "prior_week_roas": 3.1117,
+      "roas_wow_pct_change": 5.26
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-11-11",
+      "weekly_spend": 106349.95,
+      "weekly_revenue": 364195.54,
+      "weekly_roas": 3.4245,
+      "prior_week_roas": 3.2755,
+      "roas_wow_pct_change": 4.55
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-11-18",
+      "weekly_spend": 82456.54,
+      "weekly_revenue": 257870.27,
+      "weekly_roas": 3.1273,
+      "prior_week_roas": 3.4245,
+      "roas_wow_pct_change": -8.68
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-11-25",
+      "weekly_spend": 153503.35,
+      "weekly_revenue": 493587.51,
+      "weekly_roas": 3.2155,
+      "prior_week_roas": 3.1273,
+      "roas_wow_pct_change": 2.82
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-12-02",
+      "weekly_spend": 114739.02,
+      "weekly_revenue": 421406.38,
+      "weekly_roas": 3.6727,
+      "prior_week_roas": 3.2155,
+      "roas_wow_pct_change": 14.22
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-12-09",
+      "weekly_spend": 177879.11,
+      "weekly_revenue": 720224.37,
+      "weekly_roas": 4.049,
+      "prior_week_roas": 3.6727,
+      "roas_wow_pct_change": 10.25
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-12-16",
+      "weekly_spend": 127905.81,
+      "weekly_revenue": 257919.83,
+      "weekly_roas": 2.0165,
+      "prior_week_roas": 4.049,
+      "roas_wow_pct_change": -50.2
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-12-23",
+      "weekly_spend": 174163.94,
+      "weekly_revenue": 608506.59,
+      "weekly_roas": 3.4939,
+      "prior_week_roas": 2.0165,
+      "roas_wow_pct_change": 73.27
+    },
+    {
+      "platform": "Google Ads",
+      "week_start": "2024-12-30",
+      "weekly_spend": 31170.5,
+      "weekly_revenue": 59593.57,
+      "weekly_roas": 1.9119,
+      "prior_week_roas": 3.4939,
+      "roas_wow_pct_change": -45.28
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-01-01",
+      "weekly_spend": 61577.27,
+      "weekly_revenue": 432524.19,
+      "weekly_roas": 7.0241,
+      "prior_week_roas": null,
+      "roas_wow_pct_change": null
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-01-08",
+      "weekly_spend": 42569.95,
+      "weekly_revenue": 342531.46,
+      "weekly_roas": 8.0463,
+      "prior_week_roas": 7.0241,
+      "roas_wow_pct_change": 14.55
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-01-15",
+      "weekly_spend": 63382.94,
+      "weekly_revenue": 345469.27,
+      "weekly_roas": 5.4505,
+      "prior_week_roas": 8.0463,
+      "roas_wow_pct_change": -32.26
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-01-22",
+      "weekly_spend": 40246.25,
+      "weekly_revenue": 294178.23,
+      "weekly_roas": 7.3095,
+      "prior_week_roas": 5.4505,
+      "roas_wow_pct_change": 34.11
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-01-29",
+      "weekly_spend": 35457.61,
+      "weekly_revenue": 259844.37,
+      "weekly_roas": 7.3283,
+      "prior_week_roas": 7.3095,
+      "roas_wow_pct_change": 0.26
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-02-05",
+      "weekly_spend": 38310.85,
+      "weekly_revenue": 146497.65,
+      "weekly_roas": 3.8239,
+      "prior_week_roas": 7.3283,
+      "roas_wow_pct_change": -47.82
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-02-12",
+      "weekly_spend": 80258.62,
+      "weekly_revenue": 337879.54,
+      "weekly_roas": 4.2099,
+      "prior_week_roas": 3.8239,
+      "roas_wow_pct_change": 10.09
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-02-19",
+      "weekly_spend": 31803.98,
+      "weekly_revenue": 158636.33,
+      "weekly_roas": 4.9879,
+      "prior_week_roas": 4.2099,
+      "roas_wow_pct_change": 18.48
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-02-26",
+      "weekly_spend": 35878.33,
+      "weekly_revenue": 217987.81,
+      "weekly_roas": 6.0758,
+      "prior_week_roas": 4.9879,
+      "roas_wow_pct_change": 21.81
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-03-04",
+      "weekly_spend": 41523.91,
+      "weekly_revenue": 307089.1,
+      "weekly_roas": 7.3955,
+      "prior_week_roas": 6.0758,
+      "roas_wow_pct_change": 21.72
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-03-11",
+      "weekly_spend": 37287.31,
+      "weekly_revenue": 223027.41,
+      "weekly_roas": 5.9813,
+      "prior_week_roas": 7.3955,
+      "roas_wow_pct_change": -19.12
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-03-18",
+      "weekly_spend": 21212.38,
+      "weekly_revenue": 221638.63,
+      "weekly_roas": 10.4486,
+      "prior_week_roas": 5.9813,
+      "roas_wow_pct_change": 74.69
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-03-25",
+      "weekly_spend": 29715.4,
+      "weekly_revenue": 88768.26,
+      "weekly_roas": 2.9873,
+      "prior_week_roas": 10.4486,
+      "roas_wow_pct_change": -71.41
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-04-01",
+      "weekly_spend": 37559.08,
+      "weekly_revenue": 251750.04,
+      "weekly_roas": 6.7028,
+      "prior_week_roas": 2.9873,
+      "roas_wow_pct_change": 124.38
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-04-08",
+      "weekly_spend": 23657.81,
+      "weekly_revenue": 156087.68,
+      "weekly_roas": 6.5977,
+      "prior_week_roas": 6.7028,
+      "roas_wow_pct_change": -1.57
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-04-15",
+      "weekly_spend": 29991.75,
+      "weekly_revenue": 162851.28,
+      "weekly_roas": 5.4299,
+      "prior_week_roas": 6.5977,
+      "roas_wow_pct_change": -17.7
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-04-22",
+      "weekly_spend": 37342.27,
+      "weekly_revenue": 170155.52,
+      "weekly_roas": 4.5566,
+      "prior_week_roas": 5.4299,
+      "roas_wow_pct_change": -16.08
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-04-29",
+      "weekly_spend": 34449.48,
+      "weekly_revenue": 196839.55,
+      "weekly_roas": 5.7139,
+      "prior_week_roas": 4.5566,
+      "roas_wow_pct_change": 25.4
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-05-06",
+      "weekly_spend": 53670.47,
+      "weekly_revenue": 192003.27,
+      "weekly_roas": 3.5774,
+      "prior_week_roas": 5.7139,
+      "roas_wow_pct_change": -37.39
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-05-13",
+      "weekly_spend": 15401.61,
+      "weekly_revenue": 71306.55,
+      "weekly_roas": 4.6298,
+      "prior_week_roas": 3.5774,
+      "roas_wow_pct_change": 29.42
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-05-20",
+      "weekly_spend": 53907.14,
+      "weekly_revenue": 339926.21,
+      "weekly_roas": 6.3058,
+      "prior_week_roas": 4.6298,
+      "roas_wow_pct_change": 36.2
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-05-27",
+      "weekly_spend": 7870.85,
+      "weekly_revenue": 61079.89,
+      "weekly_roas": 7.7603,
+      "prior_week_roas": 6.3058,
+      "roas_wow_pct_change": 23.07
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-06-03",
+      "weekly_spend": 71256.48,
+      "weekly_revenue": 295137.19,
+      "weekly_roas": 4.1419,
+      "prior_week_roas": 7.7603,
+      "roas_wow_pct_change": -46.63
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-06-10",
+      "weekly_spend": 18545.41,
+      "weekly_revenue": 91280.52,
+      "weekly_roas": 4.922,
+      "prior_week_roas": 4.1419,
+      "roas_wow_pct_change": 18.83
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-06-17",
+      "weekly_spend": 77666.41,
+      "weekly_revenue": 568827.48,
+      "weekly_roas": 7.324,
+      "prior_week_roas": 4.922,
+      "roas_wow_pct_change": 48.8
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-06-24",
+      "weekly_spend": 40845.5,
+      "weekly_revenue": 222633.41,
+      "weekly_roas": 5.4506,
+      "prior_week_roas": 7.324,
+      "roas_wow_pct_change": -25.58
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-07-01",
+      "weekly_spend": 24650.58,
+      "weekly_revenue": 158875.91,
+      "weekly_roas": 6.4451,
+      "prior_week_roas": 5.4506,
+      "roas_wow_pct_change": 18.25
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-07-08",
+      "weekly_spend": 43834.18,
+      "weekly_revenue": 221176.4,
+      "weekly_roas": 5.0458,
+      "prior_week_roas": 6.4451,
+      "roas_wow_pct_change": -21.71
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-07-15",
+      "weekly_spend": 31316.14,
+      "weekly_revenue": 140700.94,
+      "weekly_roas": 4.4929,
+      "prior_week_roas": 5.0458,
+      "roas_wow_pct_change": -10.96
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-07-22",
+      "weekly_spend": 30458.15,
+      "weekly_revenue": 172743.98,
+      "weekly_roas": 5.6715,
+      "prior_week_roas": 4.4929,
+      "roas_wow_pct_change": 26.23
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-07-29",
+      "weekly_spend": 38259.68,
+      "weekly_revenue": 237441.23,
+      "weekly_roas": 6.206,
+      "prior_week_roas": 5.6715,
+      "roas_wow_pct_change": 9.42
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-08-05",
+      "weekly_spend": 28907.83,
+      "weekly_revenue": 226263.4,
+      "weekly_roas": 7.8271,
+      "prior_week_roas": 6.206,
+      "roas_wow_pct_change": 26.12
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-08-12",
+      "weekly_spend": 65480.77,
+      "weekly_revenue": 258725.19,
+      "weekly_roas": 3.9512,
+      "prior_week_roas": 7.8271,
+      "roas_wow_pct_change": -49.52
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-08-19",
+      "weekly_spend": 31994.01,
+      "weekly_revenue": 138549.85,
+      "weekly_roas": 4.3305,
+      "prior_week_roas": 3.9512,
+      "roas_wow_pct_change": 9.6
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-08-26",
+      "weekly_spend": 48872.13,
+      "weekly_revenue": 289495.12,
+      "weekly_roas": 5.9235,
+      "prior_week_roas": 4.3305,
+      "roas_wow_pct_change": 36.79
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-09-02",
+      "weekly_spend": 47543.69,
+      "weekly_revenue": 174607.86,
+      "weekly_roas": 3.6726,
+      "prior_week_roas": 5.9235,
+      "roas_wow_pct_change": -38.0
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-09-09",
+      "weekly_spend": 64235.48,
+      "weekly_revenue": 383590.92,
+      "weekly_roas": 5.9716,
+      "prior_week_roas": 3.6726,
+      "roas_wow_pct_change": 62.6
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-09-16",
+      "weekly_spend": 16864.61,
+      "weekly_revenue": 65163.97,
+      "weekly_roas": 3.8639,
+      "prior_week_roas": 5.9716,
+      "roas_wow_pct_change": -35.3
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-09-23",
+      "weekly_spend": 52077.44,
+      "weekly_revenue": 196947.04,
+      "weekly_roas": 3.7818,
+      "prior_week_roas": 3.8639,
+      "roas_wow_pct_change": -2.12
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-09-30",
+      "weekly_spend": 8118.66,
+      "weekly_revenue": 152462.21,
+      "weekly_roas": 18.7792,
+      "prior_week_roas": 3.7818,
+      "roas_wow_pct_change": 396.57
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-10-07",
+      "weekly_spend": 51863.97,
+      "weekly_revenue": 319704.34,
+      "weekly_roas": 6.1643,
+      "prior_week_roas": 18.7792,
+      "roas_wow_pct_change": -67.17
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-10-14",
+      "weekly_spend": 39371.29,
+      "weekly_revenue": 188099.87,
+      "weekly_roas": 4.7776,
+      "prior_week_roas": 6.1643,
+      "roas_wow_pct_change": -22.5
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-10-21",
+      "weekly_spend": 59205.78,
+      "weekly_revenue": 334420.41,
+      "weekly_roas": 5.6484,
+      "prior_week_roas": 4.7776,
+      "roas_wow_pct_change": 18.23
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-10-28",
+      "weekly_spend": 26975.91,
+      "weekly_revenue": 156521.03,
+      "weekly_roas": 5.8023,
+      "prior_week_roas": 5.6484,
+      "roas_wow_pct_change": 2.72
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-11-04",
+      "weekly_spend": 49235.67,
+      "weekly_revenue": 289860.4,
+      "weekly_roas": 5.8872,
+      "prior_week_roas": 5.8023,
+      "roas_wow_pct_change": 1.46
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-11-11",
+      "weekly_spend": 46963.93,
+      "weekly_revenue": 264782.5,
+      "weekly_roas": 5.638,
+      "prior_week_roas": 5.8872,
+      "roas_wow_pct_change": -4.23
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-11-18",
+      "weekly_spend": 25238.09,
+      "weekly_revenue": 107891.91,
+      "weekly_roas": 4.275,
+      "prior_week_roas": 5.638,
+      "roas_wow_pct_change": -24.18
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-11-25",
+      "weekly_spend": 48457.95,
+      "weekly_revenue": 243343.05,
+      "weekly_roas": 5.0217,
+      "prior_week_roas": 4.275,
+      "roas_wow_pct_change": 17.47
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-12-02",
+      "weekly_spend": 40674.53,
+      "weekly_revenue": 271583.03,
+      "weekly_roas": 6.677,
+      "prior_week_roas": 5.0217,
+      "roas_wow_pct_change": 32.96
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-12-09",
+      "weekly_spend": 50531.52,
+      "weekly_revenue": 247039.23,
+      "weekly_roas": 4.8888,
+      "prior_week_roas": 6.677,
+      "roas_wow_pct_change": -26.78
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-12-16",
+      "weekly_spend": 32273.32,
+      "weekly_revenue": 204331.02,
+      "weekly_roas": 6.3313,
+      "prior_week_roas": 4.8888,
+      "roas_wow_pct_change": 29.51
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-12-23",
+      "weekly_spend": 32666.76,
+      "weekly_revenue": 263150.37,
+      "weekly_roas": 8.0556,
+      "prior_week_roas": 6.3313,
+      "roas_wow_pct_change": 27.23
+    },
+    {
+      "platform": "Meta Ads",
+      "week_start": "2024-12-30",
+      "weekly_spend": 8600.54,
+      "weekly_revenue": 62623.77,
+      "weekly_roas": 7.2814,
+      "prior_week_roas": 8.0556,
+      "roas_wow_pct_change": -9.61
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-01-01",
+      "weekly_spend": 49140.22,
+      "weekly_revenue": 208438.06,
+      "weekly_roas": 4.2417,
+      "prior_week_roas": null,
+      "roas_wow_pct_change": null
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-01-08",
+      "weekly_spend": 40498.94,
+      "weekly_revenue": 220437.72,
+      "weekly_roas": 5.443,
+      "prior_week_roas": 4.2417,
+      "roas_wow_pct_change": 28.32
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-01-15",
+      "weekly_spend": 95143.26,
+      "weekly_revenue": 705568.92,
+      "weekly_roas": 7.4159,
+      "prior_week_roas": 5.443,
+      "roas_wow_pct_change": 36.25
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-01-22",
+      "weekly_spend": 52790.13,
+      "weekly_revenue": 378827.18,
+      "weekly_roas": 7.1761,
+      "prior_week_roas": 7.4159,
+      "roas_wow_pct_change": -3.23
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-01-29",
+      "weekly_spend": 85068.52,
+      "weekly_revenue": 708593.06,
+      "weekly_roas": 8.3297,
+      "prior_week_roas": 7.1761,
+      "roas_wow_pct_change": 16.08
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-02-05",
+      "weekly_spend": 56261.68,
+      "weekly_revenue": 500848.09,
+      "weekly_roas": 8.9021,
+      "prior_week_roas": 8.3297,
+      "roas_wow_pct_change": 6.87
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-02-12",
+      "weekly_spend": 63790.8,
+      "weekly_revenue": 369731.89,
+      "weekly_roas": 5.796,
+      "prior_week_roas": 8.9021,
+      "roas_wow_pct_change": -34.89
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-02-19",
+      "weekly_spend": 32960.97,
+      "weekly_revenue": 335219.04,
+      "weekly_roas": 10.1702,
+      "prior_week_roas": 5.796,
+      "roas_wow_pct_change": 75.47
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-02-26",
+      "weekly_spend": 55370.17,
+      "weekly_revenue": 361161.47,
+      "weekly_roas": 6.5227,
+      "prior_week_roas": 10.1702,
+      "roas_wow_pct_change": -35.86
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-03-04",
+      "weekly_spend": 53295.12,
+      "weekly_revenue": 637106.82,
+      "weekly_roas": 11.9543,
+      "prior_week_roas": 6.5227,
+      "roas_wow_pct_change": 83.27
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-03-11",
+      "weekly_spend": 30796.55,
+      "weekly_revenue": 190931.63,
+      "weekly_roas": 6.1998,
+      "prior_week_roas": 11.9543,
+      "roas_wow_pct_change": -48.14
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-03-18",
+      "weekly_spend": 38785.92,
+      "weekly_revenue": 323040.39,
+      "weekly_roas": 8.3288,
+      "prior_week_roas": 6.1998,
+      "roas_wow_pct_change": 34.34
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-03-25",
+      "weekly_spend": 23837.5,
+      "weekly_revenue": 201972.24,
+      "weekly_roas": 8.4729,
+      "prior_week_roas": 8.3288,
+      "roas_wow_pct_change": 1.73
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-04-01",
+      "weekly_spend": 105164.11,
+      "weekly_revenue": 924932.09,
+      "weekly_roas": 8.7951,
+      "prior_week_roas": 8.4729,
+      "roas_wow_pct_change": 3.8
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-04-08",
+      "weekly_spend": 83128.58,
+      "weekly_revenue": 589543.69,
+      "weekly_roas": 7.0919,
+      "prior_week_roas": 8.7951,
+      "roas_wow_pct_change": -19.37
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-04-15",
+      "weekly_spend": 62866.9,
+      "weekly_revenue": 511143.95,
+      "weekly_roas": 8.1306,
+      "prior_week_roas": 7.0919,
+      "roas_wow_pct_change": 14.65
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-04-22",
+      "weekly_spend": 30368.88,
+      "weekly_revenue": 102609.1,
+      "weekly_roas": 3.3788,
+      "prior_week_roas": 8.1306,
+      "roas_wow_pct_change": -58.44
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-04-29",
+      "weekly_spend": 38974.34,
+      "weekly_revenue": 147473.15,
+      "weekly_roas": 3.7839,
+      "prior_week_roas": 3.3788,
+      "roas_wow_pct_change": 11.99
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-05-06",
+      "weekly_spend": 38317.71,
+      "weekly_revenue": 315608.54,
+      "weekly_roas": 8.2366,
+      "prior_week_roas": 3.7839,
+      "roas_wow_pct_change": 117.67
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-05-13",
+      "weekly_spend": 31959.13,
+      "weekly_revenue": 441403.05,
+      "weekly_roas": 13.8115,
+      "prior_week_roas": 8.2366,
+      "roas_wow_pct_change": 67.68
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-05-20",
+      "weekly_spend": 43833.93,
+      "weekly_revenue": 334520.24,
+      "weekly_roas": 7.6315,
+      "prior_week_roas": 13.8115,
+      "roas_wow_pct_change": -44.75
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-05-27",
+      "weekly_spend": 26677.4,
+      "weekly_revenue": 198706.51,
+      "weekly_roas": 7.4485,
+      "prior_week_roas": 7.6315,
+      "roas_wow_pct_change": -2.4
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-06-03",
+      "weekly_spend": 49822.29,
+      "weekly_revenue": 362345.97,
+      "weekly_roas": 7.2728,
+      "prior_week_roas": 7.4485,
+      "roas_wow_pct_change": -2.36
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-06-10",
+      "weekly_spend": 38135.4,
+      "weekly_revenue": 236817.53,
+      "weekly_roas": 6.2099,
+      "prior_week_roas": 7.2728,
+      "roas_wow_pct_change": -14.61
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-06-17",
+      "weekly_spend": 58287.65,
+      "weekly_revenue": 202934.92,
+      "weekly_roas": 3.4816,
+      "prior_week_roas": 6.2099,
+      "roas_wow_pct_change": -43.93
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-06-24",
+      "weekly_spend": 14988.37,
+      "weekly_revenue": 247290.43,
+      "weekly_roas": 16.4988,
+      "prior_week_roas": 3.4816,
+      "roas_wow_pct_change": 373.89
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-07-01",
+      "weekly_spend": 60941.48,
+      "weekly_revenue": 258442.38,
+      "weekly_roas": 4.2408,
+      "prior_week_roas": 16.4988,
+      "roas_wow_pct_change": -74.3
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-07-08",
+      "weekly_spend": 29929.25,
+      "weekly_revenue": 414012.29,
+      "weekly_roas": 13.833,
+      "prior_week_roas": 4.2408,
+      "roas_wow_pct_change": 226.19
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-07-15",
+      "weekly_spend": 68274.69,
+      "weekly_revenue": 653598.11,
+      "weekly_roas": 9.5731,
+      "prior_week_roas": 13.833,
+      "roas_wow_pct_change": -30.8
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-07-22",
+      "weekly_spend": 14364.65,
+      "weekly_revenue": 83924.74,
+      "weekly_roas": 5.8424,
+      "prior_week_roas": 9.5731,
+      "roas_wow_pct_change": -38.97
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-07-29",
+      "weekly_spend": 25701.93,
+      "weekly_revenue": 194373.86,
+      "weekly_roas": 7.5626,
+      "prior_week_roas": 5.8424,
+      "roas_wow_pct_change": 29.44
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-08-05",
+      "weekly_spend": 35518.18,
+      "weekly_revenue": 329750.63,
+      "weekly_roas": 9.284,
+      "prior_week_roas": 7.5626,
+      "roas_wow_pct_change": 22.76
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-08-12",
+      "weekly_spend": 35058.72,
+      "weekly_revenue": 282345.87,
+      "weekly_roas": 8.0535,
+      "prior_week_roas": 9.284,
+      "roas_wow_pct_change": -13.25
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-08-19",
+      "weekly_spend": 56693.83,
+      "weekly_revenue": 450704.19,
+      "weekly_roas": 7.9498,
+      "prior_week_roas": 8.0535,
+      "roas_wow_pct_change": -1.29
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-08-26",
+      "weekly_spend": 51002.53,
+      "weekly_revenue": 220861.31,
+      "weekly_roas": 4.3304,
+      "prior_week_roas": 7.9498,
+      "roas_wow_pct_change": -45.53
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-09-02",
+      "weekly_spend": 36078.21,
+      "weekly_revenue": 117280.4,
+      "weekly_roas": 3.2507,
+      "prior_week_roas": 4.3304,
+      "roas_wow_pct_change": -24.93
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-09-09",
+      "weekly_spend": 48598.46,
+      "weekly_revenue": 438458.51,
+      "weekly_roas": 9.0221,
+      "prior_week_roas": 3.2507,
+      "roas_wow_pct_change": 177.54
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-09-16",
+      "weekly_spend": 54483.38,
+      "weekly_revenue": 680567.48,
+      "weekly_roas": 12.4913,
+      "prior_week_roas": 9.0221,
+      "roas_wow_pct_change": 38.45
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-09-23",
+      "weekly_spend": 85508.2,
+      "weekly_revenue": 647539.45,
+      "weekly_roas": 7.5728,
+      "prior_week_roas": 12.4913,
+      "roas_wow_pct_change": -39.38
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-09-30",
+      "weekly_spend": 47975.03,
+      "weekly_revenue": 373580.48,
+      "weekly_roas": 7.787,
+      "prior_week_roas": 7.5728,
+      "roas_wow_pct_change": 2.83
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-10-07",
+      "weekly_spend": 26084.56,
+      "weekly_revenue": 227071.74,
+      "weekly_roas": 8.7052,
+      "prior_week_roas": 7.787,
+      "roas_wow_pct_change": 11.79
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-10-14",
+      "weekly_spend": 66747.02,
+      "weekly_revenue": 387092.03,
+      "weekly_roas": 5.7994,
+      "prior_week_roas": 8.7052,
+      "roas_wow_pct_change": -33.38
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-10-21",
+      "weekly_spend": 60368.23,
+      "weekly_revenue": 484910.65,
+      "weekly_roas": 8.0325,
+      "prior_week_roas": 5.7994,
+      "roas_wow_pct_change": 38.51
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-10-28",
+      "weekly_spend": 109787.27,
+      "weekly_revenue": 775111.22,
+      "weekly_roas": 7.0601,
+      "prior_week_roas": 8.0325,
+      "roas_wow_pct_change": -12.11
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-11-04",
+      "weekly_spend": 24009.03,
+      "weekly_revenue": 283745.57,
+      "weekly_roas": 11.8183,
+      "prior_week_roas": 7.0601,
+      "roas_wow_pct_change": 67.4
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-11-11",
+      "weekly_spend": 90375.89,
+      "weekly_revenue": 560201.63,
+      "weekly_roas": 6.1986,
+      "prior_week_roas": 11.8183,
+      "roas_wow_pct_change": -47.55
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-11-18",
+      "weekly_spend": 25207.16,
+      "weekly_revenue": 301733.37,
+      "weekly_roas": 11.9701,
+      "prior_week_roas": 6.1986,
+      "roas_wow_pct_change": 93.11
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-11-25",
+      "weekly_spend": 25057.65,
+      "weekly_revenue": 365912.64,
+      "weekly_roas": 14.6028,
+      "prior_week_roas": 11.9701,
+      "roas_wow_pct_change": 21.99
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-12-02",
+      "weekly_spend": 72343.94,
+      "weekly_revenue": 445531.48,
+      "weekly_roas": 6.1585,
+      "prior_week_roas": 14.6028,
+      "roas_wow_pct_change": -57.83
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-12-09",
+      "weekly_spend": 96098.1,
+      "weekly_revenue": 566849.05,
+      "weekly_roas": 5.8986,
+      "prior_week_roas": 6.1585,
+      "roas_wow_pct_change": -4.22
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-12-16",
+      "weekly_spend": 51550.77,
+      "weekly_revenue": 526056.59,
+      "weekly_roas": 10.2046,
+      "prior_week_roas": 5.8986,
+      "roas_wow_pct_change": 73.0
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-12-23",
+      "weekly_spend": 35326.43,
+      "weekly_revenue": 261253.69,
+      "weekly_roas": 7.3954,
+      "prior_week_roas": 10.2046,
+      "roas_wow_pct_change": -27.53
+    },
+    {
+      "platform": "TikTok Ads",
+      "week_start": "2024-12-30",
+      "weekly_spend": 20069.45,
+      "weekly_revenue": 135425.03,
+      "weekly_roas": 6.7478,
+      "prior_week_roas": 7.3954,
+      "roas_wow_pct_change": -8.76
+    }
+  ]
+}
